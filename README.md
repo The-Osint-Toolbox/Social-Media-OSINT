@@ -4,10 +4,23 @@ On this page you will find links to useful, tools, technqiues & tradecraft relat
 <br/>
 
 # Table of Contents
+
+
 <table>
   <tr>
     <td>Facebook</td>
-    <tr>
+  </tr>
+  <tr>
+    <td>Instagram</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+  </tr>
+</table>
+  
+  <tr>
+    <td>Facebook</td>
+    </tr>
       <td>Instgram</td>
       <tr>
         <td>LinkedIn</td>
@@ -15,6 +28,7 @@ On this page you will find links to useful, tools, technqiues & tradecraft relat
           <td>Twitter</td>
           <tr>
             <td>Mastadom</td>
+            </tr>
         
 
 
