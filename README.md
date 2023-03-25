@@ -16,20 +16,15 @@ On this page you will find links to useful, tools, technqiues & tradecraft relat
   <tr>
     <td>LinkedIn</td>
   </tr>
+  <tr>
+    <td>Twitter</td>
+  </tr>
+  <tr>
+    <td>Mastadom</td>
+  </tr>
 </table>
   
-  <tr>
-    <td>Facebook</td>
-    </tr>
-      <td>Instgram</td>
-      <tr>
-        <td>LinkedIn</td>
-        <tr>
-          <td>Twitter</td>
-          <tr>
-            <td>Mastadom</td>
-            </tr>
-        
+  
 
 
 
