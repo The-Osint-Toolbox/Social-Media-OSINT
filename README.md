@@ -44,6 +44,11 @@ On this page you will find links to useful, tools, technqiues & tradecraft relat
  <li>https://github.com/jordanwildon/Telepathy</li>
  <li>https://social-searcher.com/google-social-search/</li>
 </ul>
+<p>Videos</p>
+<ul>
+  <li>https://youtube.com/c/elysium2020</li>
+  <li>https://youtube.com/watch?v=e_aXQYq2l6U&list=PLwZhZIRPgM1mhZKlhAx7xgbbr4EuAPczi&index=6</li>
+</ul>
   
   
 
