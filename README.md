@@ -59,7 +59,52 @@ On this page you will find links to useful, tools, technqiues & tradecraft relat
   <li><a href="https://youtube.com/c/elysium2020">Elysium</a></li>
   <li><a href="https://youtube.com/watch?v=e_aXQYq2l6U&list=PLwZhZIRPgM1mhZKlhAx7xgbbr4EuAPczi&index=6">Dutch Osint Guy</a></li>
 </ul>
-  
+<br><br/>
+<table>
+  <tr>
+  <td>Twitter</td>
+  </tr>
+</table>
+<p>Resources</p>
+The resources listed below all do very similar things but you can gleam different kinds of information about a Twtiier account, so it always worth checking them all out. Some sites may need you to sign in to your own account to work.
+<br></br>
+Please bear in mind recent changes to Twitter, especially involving their API (March 2023). this may have an adverse affect on some resources until the owners have had chance to adapt.
+<br></br>
+<ul>
+ <li><a href="https://liwc.net/analyzewords/index.php">Analyze Words</a></li>
+ <li><a href="http://aware-online.com/en/osint-tools/twitter-search-tool/">Aware-Online</a></li>
+ <li><a href="https://birdhunt.co/">Birdhunt</a></li>
+ <li><a href="https://botometer.osome.iu.edu/">Botometre</a></li>
+ <li><a href="https://foller.me/">Foller</a></li>
+ <li><a href="https://followerwonk.com/">Followerwonk</a></li>
+ <li><a href="http://geosocialfootprint.com/">Geo Social Footprint</a></li>
+ <li><a href="https://hashatit.com/">Hash At It</a></li>
+ <li><a href="https://inteltechniques.com/tools/Twitter.html">Inteltechniques</a></li>
+ <li><a href="https://intelx.io/tools?tab=twitter">Intelx</a></li>
+ <li><a href="https://makeadverbsgreatagain.org/allegedly/">Make Adverbs Great Again</a></li>
+ <li><a href="https://onemilliontweetmap.com/">One Million Tweet Map </a></li>
+ <li><a href="https://osintcombine.com/social-geo-lens">Osint Conbine</a></li>
+ <li><a href="https://realtoptweeps.com/rankings/">Real Top Tweeps</a></li>
+ <li><a href="https://socialbearing.com/">Social Bearing</a></li>
+ <li><a href="http://spoonbill.io/">Spoonbill</a></li>
+ <li><a href="https://tinfoleak.com/">Tinfoleak</a></li>
+ <li><a href="https://tweetbeaver.com/">Tweet Beaver</a></li>
+ <li><a href="https://tweepdiff.com/">Tweep Diff</a></li>
+ <li><a href="https://www.heavy.ai/demos/tweetmap">Tweet Map</a></li>
+ <li><a href="https://tweettunnel.com/reverse.php">Tweet Tunnel</a></li>
+ <li><a href="https://github.com/twintproject/twint">Twint</a></li>
+ <li><a href="https://twitter.com/search-advanced">Twitter's Advanced Search</a></li>
+ <li><a href="https://twopcharts.com/">Twopcharts</a></li>
+</ul>
+<p>Tools</p>
+<ul>
+ <li><a href="https://treeverse.app/>">Treeverse</a></li>
+ <li><a href="https://www.downloadtwittervideo.com/">Twitter Video Downloader</a></li>
+ <li><a href="https://twittervideodownloader.com/">Twitter Video Downloader</a></li> 
+ <li><a href="https://savetweetvid.com/">Twitter Video Downloader</a></li>
+</ul>
+
+
   
 
 
