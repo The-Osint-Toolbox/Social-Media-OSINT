@@ -1,4 +1,4 @@
-On this page you will find links to useful, tools, technqiues & tradecraft relating to Social Media OSINT. 
+The distinction between traditional social media and messenger apps is probably not as defines as it once was, "Social media are interactive technologies that facilitate the creation and sharing of information, ideas, interests, and other forms of expression through virtual communities and networks." As a result on this page you will find the likes of Telegram & Snapchat included, there are links to useful, tools, technqiues & tradecraft.
 <br/>
 <br/>
 # Table of Contents
@@ -14,6 +14,9 @@ On this page you will find links to useful, tools, technqiues & tradecraft relat
   </tr>
   <tr>
     <td>Mastadom</td>
+  </tr>
+  <tr>
+    <td>Snapchat</td>
   </tr>
   <tr>
     <td>Telegram</td>
