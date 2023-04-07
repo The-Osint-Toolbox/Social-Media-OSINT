@@ -28,6 +28,16 @@ The distinction between traditional social media and messenger apps is probably 
 </table>
 <br></br>
 <table>
+  <tr>
+    <td>Snapchat</td>
+  </tr>
+</table>
+<p>Resources</p>
+ <ul>
+  <li><a href="https://map.snapchat.com/">Snapmap</a></li>
+ </ul>
+<br></br>
+<table>
  <tr>
   <td>Telegram</td>
  </tr>
