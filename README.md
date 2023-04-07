@@ -34,7 +34,10 @@ The distinction between traditional social media and messenger apps is probably 
 </table>
 <p>Resources</p>
  <ul>
+  <li><a href="https://ghostcodes.com/">Ghostcodes</a></li>
   <li><a href="https://map.snapchat.com/">Snapmap</a></li>
+  <li><a href="https://www.snapchat.com/discover">Snapchat Discover</a></li>
+  <li><a href="https://accounts.snapchat.com/">Snapchat Web</a></li>
  </ul>
 <br></br>
 <table>
