@@ -39,6 +39,10 @@ The distinction between traditional social media and messenger apps is probably 
   <li><a href="https://www.snapchat.com/discover">Snapchat Discover</a></li>
   <li><a href="https://accounts.snapchat.com/">Snapchat Web</a></li>
  </ul>
+<p>Videos</p>
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=17yiLinMPpk">How to download Snapchat videos</a></li>
+</ul> 
 <br></br>
 <table>
  <tr>
