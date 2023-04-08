@@ -147,6 +147,7 @@ Please bear in mind recent changes to Twitter, especially involving their API (M
  <li><a href="http://aware-online.com/en/osint-tools/twitter-search-tool/">Aware-Online</a></li>
  <li><a href="https://birdhunt.co/">Birdhunt</a></li>
  <li><a href="https://botometer.osome.iu.edu/">Botometre</a></li>
+ <li><a href="https://www.codeofaninja.com/tools/find-twitter-id/">Codeofaninja</a></li>Easy way for you to get a Twitter profile's numeric ID.
  <li><a href="https://foller.me/">Foller</a></li>
  <li><a href="https://followerwonk.com/">Followerwonk</a></li>
  <li><a href="http://geosocialfootprint.com/">Geo Social Footprint</a></li>
