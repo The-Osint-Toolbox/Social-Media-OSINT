@@ -55,7 +55,7 @@ The distinction between traditional social media and messenger apps is probably 
 <br></br>
 <table>
   <tr>
-    <td>Instgram</td>
+    <td>Instagram</td>
   </tr>
 </table>
 <p>Blogs</p>
@@ -70,6 +70,7 @@ The distinction between traditional social media and messenger apps is probably 
   <li><a href="https://downloadgram.app/">Download Gram</a></li>Instagram downloader tool, it helps you to download Instagram photos and videos.
   <li><a href="https://imginn.com/">Imginn</a></li>Download instagram photos, videos and stories highlights.
   <li><a href="https://github.com/instaloader/instaloader">Instaloader</a></li>Download pictures (or videos) along with their captions.
+  <li><a href="https://inteltechniques.com/tools/Instagram.html">Inteltechniques</a></li>Inteltechniques Instagram search tool.
   <li><a href="https://github.com/althonos/InstaLooter">Instalooter</a></li>API-less Instagram pictures and videos downloader.
   <li><a href="https://izuum.net/">iZuum</a></li>Instagram profile downloader. 
   <li><a href="https://www.osintcombine.com/instagram-explorer">Osint Combinne</a></li>Find images by date on Instagram at particular locations easier and more efficient.
