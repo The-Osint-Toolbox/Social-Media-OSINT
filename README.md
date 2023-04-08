@@ -30,6 +30,7 @@ The distinction between traditional social media and messenger apps is probably 
   </tr>
 </table>
 <br></br>
+<p><img src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png"></p>
 </table>
 <br></br>
 <table>
