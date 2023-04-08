@@ -36,7 +36,8 @@ The distinction between traditional social media and messenger apps is probably 
 </table>
 <p>Resources</p>
 <ul>
-  <li><a href="https://discordhub.com/user/search">Discord Hub</a></li>
+  <li><a href="https://discordhub.com/user/search">Discord Hub.</a></li>
+  <li><a href="https://discord.id/">Discord id Lookup.</a></li>
   <li><a href="https://github.com/Dutchosintguy/OSINT-Discord-resources">DutchOsintGuy Disord Osint.</a></li>
 </ul>
 <table>
