@@ -60,9 +60,10 @@ The distinction between traditional social media and messenger apps is probably 
 </table>
 <ul>
   <li><a href="https://downloadgram.app/">Download Gram</a></li>
-  <li><a href="https://www.picuki.com/"> Picuki Instgram Editor & Viewer</a></li>
-  <li><a href="https://imginn.com/">Imginn Download instagram photos, videos and stories highlights.</a></li>
-  <li><a href="https://github.com/althonos/InstaLooter">Instaloader API-less Instagram pictures and videos downloader.</a></li>
+  <li><a href="https://imginn.com/">Imginn</a></li>Download instagram photos, videos and stories highlights.
+  <li><a href="https://github.com/instaloader/instaloader">Instaloader</a></li>Download pictures (or videos) along with their captions.
+  <li><a href="https://github.com/althonos/InstaLooter">Instalooter</a></li>API-less Instagram pictures and videos downloader.
+  <li><a href="https://www.picuki.com/">Picuki</a></li>Instgram Editor & Viewer.
 </ul>
 <br></br>
 <table>
