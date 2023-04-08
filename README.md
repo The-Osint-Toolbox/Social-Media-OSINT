@@ -66,6 +66,7 @@ The distinction between traditional social media and messenger apps is probably 
 </ul>
 <p>Resources</p>
 <ul>
+  <li><a href="https://www.codeofaninja.com/tools/find-instagram-user-id/">Codeofaninja</a></li>Easy way for developers and designers to get Instagram account numeric ID by username.
   <li><a href="https://downloadgram.app/">Download Gram</a></li>Instagram downloader tool, it helps you to download Instagram photos and videos.
   <li><a href="https://imginn.com/">Imginn</a></li>Download instagram photos, videos and stories highlights.
   <li><a href="https://github.com/instaloader/instaloader">Instaloader</a></li>Download pictures (or videos) along with their captions.
