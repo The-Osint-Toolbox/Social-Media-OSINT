@@ -51,9 +51,17 @@ The distinction between traditional social media and messenger apps is probably 
   <li><a href="https://discordhub.com/user/search">Discord Hub</a></li>
   <li><a href="https://discord.id/">Discord id Lookup</a></li>
   <li><a href="https://discordservers.com/">Discord Servers</a></li>
-  
 </ul>
 <table>
+<br></br>
+<table>
+  <tr>
+    <td>Instgram</td>
+  </tr>
+</table>
+<ul>
+  <li><a href="https://downloadgram.app/">Download Gram</a></li>
+</ul>
 <br></br>
   <tr>
     <td>Snapchat</td>
