@@ -27,7 +27,20 @@ The distinction between traditional social media and messenger apps is probably 
   </tr>
 </table>
 <br></br>
+</table>
+<br></br>
 <table>
+  <tr>
+    <td>Discord</td>
+  </tr>
+</table>
+<p>Resources</p>
+<ul>
+  <li><a href="https://discordhub.com/user/search">Discord Hub</a></li>
+  <li><a href="https://github.com/Dutchosintguy/OSINT-Discord-resources">DutchOsintGuy Disord Osint.</a></li>
+</ul>
+<table>
+<br></br>
   <tr>
     <td>Snapchat</td>
   </tr>
