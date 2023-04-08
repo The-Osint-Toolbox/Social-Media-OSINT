@@ -1,5 +1,5 @@
 # Social-Media-OSINT
-The distinction between traditional social media and messenger apps is probably not as defined as it once was, "Social media are interactive technologies that facilitate the creation and sharing of information, ideas, interests, and other forms of expression through virtual communities and networks." As a result on this page you will find the likes of Telegram & Snapchat included, there are links to useful, tools, technqiues & tradecraft.
+The distinction between traditional social media and messenger apps is probably not as defined as it once was, "Social media are interactive technologies that facilitate the creation and sharing of information, ideas, interests, and other forms of expression through virtual communities and networks." As a result on this page you will find the likes of Telegram & Snapchat included, there are links to useful, tools, technqiues & tradecraft. Some blogs & Vidoes may contain links to resources that are no longer avaiable, as they frequently come and go. 
 <br/>
 <br/>
 # Table of Contents
@@ -58,11 +58,19 @@ The distinction between traditional social media and messenger apps is probably 
     <td>Instgram</td>
   </tr>
 </table>
+<p>Blogs</p>
 <ul>
-  <li><a href="https://downloadgram.app/">Download Gram</a></li>
+  <li><a href="https://nixintel.info/osint/how-to-find-timestamps-for-verification/">Nixintel How to find timestamps</a></li>
+  <li><a href="https://osintcurio.us/2019/07/16/searching-instagram/">TOCP How to search Instagram part 1</a></li>
+  <li><a href="https://osintcurio.us/2019/10/01/searching-instagram-part-2/">TOCP How to search Instagram part 2</a></li>
+</ul>
+<p>Resources</p>
+<ul>
+  <li><a href="https://downloadgram.app/">Download Gram</a></li>Instagram downloader tool, it helps you to download Instagram photos and videos.
   <li><a href="https://imginn.com/">Imginn</a></li>Download instagram photos, videos and stories highlights.
   <li><a href="https://github.com/instaloader/instaloader">Instaloader</a></li>Download pictures (or videos) along with their captions.
   <li><a href="https://github.com/althonos/InstaLooter">Instalooter</a></li>API-less Instagram pictures and videos downloader.
+  <li><a href="https://izuum.net/">iZuum</a></li>Instagram profile downloader. 
   <li><a href="https://www.osintcombine.com/instagram-explorer">Osint Combinne</a></li>Find images by date on Instagram at particular locations easier and more efficient.
   <li><a href="https://www.picnob.com/">Picnob</a></li>Enables you to browse Instagram profiles without the need of an account.
   <li><a href="https://www.picuki.com/">Picuki</a></li>Instgram Editor & Viewer.
