@@ -44,7 +44,7 @@ The distinction between traditional social media and messenger apps is probably 
 </ul>
 <p>Resources</p>
 <ul>
-  <li><a href="https://disboard.org/?__cf_chl_jschl_tk__=4965d458fc395e7cd2da264248e9925cb935369f-1611056534-0-AZEXrMhx34r6m3OzeUrtiUwXTsG3Luvm8Xvdq-edSmB8JLL_SqgUqBvS8_WImB9N6b6vf9b7XKW9LoMS5J6mvIkMblOEu7faSzPXrmiaoQqRM4QkmlRVec1Zmi5n6BY6_i6twQ3r8gGT3CxRxpC_etpnZrJQ2YmiQJt8wvuJfd8J9lifNFhgVYX2lU2pYVjtojjoEJVVNl7ey1W6cXN24Yg8OC8zF9TQWivLBp3eyZUyOfMDBeugwaOX8_Z0uaJBIScmMmhznIuuk-lCk0yfUUvA0fZ5lbCeNbk3-hGlp_r5GKsFXvkliG4lR9I6fBkZQpNOOh6BcyNkcz_2GFU_DdbwP3AeS97UrC03g8SYvM4ICj7xNPRh0NQFezlY6ZC6IA">Disboard</a></li>
+  <li><a href="https://disboard.org/">Disboard</a></li>
   <li><a href="https://discordbee.com/">Discord Bee</a></li>
   <li><a href="https://discord.center/">Discord Centre</a></li>
   <li><a href="https://dht.chylex.com/">Discord History Tracker</a></li>
@@ -52,7 +52,6 @@ The distinction between traditional social media and messenger apps is probably 
   <li><a href="https://discord.id/">Discord id Lookup</a></li>
   <li><a href="https://discordservers.com/">Discord Servers</a></li>
 </ul>
-<table>
 <br></br>
 <table>
   <tr>
@@ -63,8 +62,10 @@ The distinction between traditional social media and messenger apps is probably 
   <li><a href="https://downloadgram.app/">Download Gram</a></li>
   <li><a href="https://www.picuki.com/"> Picuki Instgram Editor & Viewer</a></li>
   <li><a href="https://imginn.com/">Imginn Download instagram photos, videos and stories highlights.</a></li>
+  <li><a href="https://github.com/althonos/InstaLooter">Instaloader API-less Instagram pictures and videos downloader.</a></li>
 </ul>
 <br></br>
+<table>
   <tr>
     <td>Snapchat</td>
   </tr>
