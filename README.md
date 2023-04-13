@@ -86,6 +86,15 @@ The distinction between traditional social media and messenger apps is probably 
 <br></br>
 <table>
   <tr>
+    <td>Linkedin</td>
+  </tr>
+</table>
+<ul>
+  <li><a href="https://freepeoplesearchtool.com/">Free Person Search Tool</a></li>Find people easily on Linkedin.
+</ul>
+<br></br>
+<table>
+  <tr>
     <td>Snapchat</td>
   </tr>
 </table>
