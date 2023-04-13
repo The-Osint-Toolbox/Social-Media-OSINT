@@ -128,6 +128,20 @@ The distinction between traditional social media and messenger apps is probably 
  <li><a href="https://tgstat.com/">Tgstat.com</a></li>
  <li><a href="https://tlgrm.eu/channels">Tlgrm</a></li>
 </ul>
+<p><p>Telegram Bots</p>
+<ul>
+  <li><a href="https://airtable.com/shrGXOv6HGjLojFfE/tbleF3EFRKW4Uf3Ak">Country Bot List</a></li>
+  <li><a href="https://t.me/dataLeaks_bot">Data leaks Bot</a></li>
+  <li><a href="https://t.me/howtofindbots">How To Find Bots</a></li>
+  <li><a href="https://t.me/findmenow_bot">Find Me Now Bot</a></li>
+  <li><a href="https://t.me/maigret_osint_bot">Maigret Osint Bot</a></li>
+  <li><a href="https://t.me/MailLeakBot">Mail Leak Bot</a></li>
+  <li><a href="https://t.me/PhoneLeaks_Bot">Phone Leaks Bot</a></li>
+  <li><a href="https://t.me/sovaappbot">SOVA App Bot</a></li>
+  <li><a href="https://t.me/universalsearchbot">Universal Search Bot</a></li>
+  <li><a href="https://t.me/whois_bot">Whois Bot</a></li>
+  <li><a href="https://t.me/WhoisDom_bot">Whois Domain Bot</a></li>
+</ul>
 <p>Videos</p>
 <ul>
  <li><a href="https://youtube.com/c/elysium2020">Elysium</a></li>
