@@ -44,13 +44,18 @@ The distinction between traditional social media and messenger apps is probably 
 </ul>
 <p>Resources</p>
 <ul>
-  <li><a href="https://disboard.org/">Disboard</a></li>
+  <li><a href="https://disboard.org/">Disboard, Discord Servers</a></li>
   <li><a href="https://discordbee.com/">Discord Bee</a></li>
+  <li><a href="https://discordbotlist.com/">Discord Bot List</a></li>
   <li><a href="https://discord.center/">Discord Centre</a></li>
+  <li><a href="https://discord.com/invite/0cDvIgU2voWn4BaD">Discord.com, Discord Bots</a></li>
   <li><a href="https://dht.chylex.com/">Discord History Tracker</a></li>
   <li><a href="https://discordhub.com/user/search">Discord Hub</a></li>
-  <li><a href="https://discord.id/">Discord id Lookup</a></li>
+  <li><a href="https://hugo.moe/discord/discord-id-creation-date.html">Discord ID Creation Date Checker</a></li>
+  <li><a href="https://discord.id/">Discord ID Lookup</a></li>
   <li><a href="https://discordservers.com/">Discord Servers</a></li>
+  <li><a href="https://discord.me/servers">Public Discord Bots & Servers</a></li>
+  <li><a href="https://top.gg/">Top.gg, Discord Bots & Servers</a></li>
 </ul>
 <br></br>
 <table>
