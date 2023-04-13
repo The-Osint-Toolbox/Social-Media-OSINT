@@ -130,8 +130,13 @@ The distinction between traditional social media and messenger apps is probably 
 </ul>
 <p>Videos</p>
 <ul>
-  <li><a href="https://youtube.com/c/elysium2020">Elysium</a></li>
-  <li><a href="https://youtube.com/watch?v=e_aXQYq2l6U&list=PLwZhZIRPgM1mhZKlhAx7xgbbr4EuAPczi&index=6">Dutch Osint Guy</a></li>
+ <li><a href="https://youtube.com/c/elysium2020">Elysium</a></li>
+  <p>How to use Telepathy & Geogramint</p>
+ <li><a href="https://youtube.com/watch?v=e_aXQYq2l6U&list=PLwZhZIRPgM1mhZKlhAx7xgbbr4EuAPczi&index=6">Dutch Osint Guy</a></li>
+  <p>How to find Groups & Chats and download content.</p>
+ <li><a href="https://www.youtube.com/watch?v=ruOZpW_QcVE">Patrick Rus</a></li>
+  <p>Leveraging Telegram Bots to automate country specific OSINT Workflows.</p>
+</ul>
 </ul>
 <br><br/>
 <table>
