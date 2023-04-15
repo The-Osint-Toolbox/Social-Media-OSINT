@@ -68,6 +68,7 @@
    <li><a href="https://www.codeofaninja.com/tools/find-facebook-id/">Codeofaninja</a></li>This tool called "Get Facebook ID" provides an easy and fast way to find a Facebook page's or Facebook profile's numeric ID.
   <li><a href="https://www.osintcombine.com/facebook-search-tools">Osint Combine</a></li>This tool is a simple way to quickly search for multiple keywords from a list or open mutual friends for multiple profiles at the same time. 
   <li><a href="https://plessas.net/facebookmatrix">Plessas Facebook Matrix</a></li>This page contains Kirby Plessas Formulas for Searching Facebook.
+  <li><a href="https://graph.tips/beta/">Sowdust Graph Tips</a></li>Replacement Graph Search developed by Sowdust.
   <li><a href="https://www.whopostedwhat.com/">Who Posted What</a></li>Whopostedwhat.com is a non public Facebook keyword search for people who work in the public interest. It allows you to search keywords on specific dates.
 </ul>
 <br></br>
