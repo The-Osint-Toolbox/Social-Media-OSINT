@@ -1,8 +1,9 @@
 # Social-Media-OSINT
-The distinction between traditional social media and messenger apps is probably not as defined as it once was, "Social media are interactive technologies that facilitate the creation and sharing of information, ideas, interests, and other forms of expression through virtual communities and networks." As a result on this page you will find the likes of Telegram & Snapchat included, there are links to useful, tools, technqiues & tradecraft. Some blogs & Vidoes may contain links to resources that are no longer avaiable, as they frequently come and go. 
-<br/>
-<br/>
-# Table of Contents
+<p>The distinction between traditional social media and messenger apps is probably not as defined as it once was, "Social media are interactive technologies that facilitate the creation and sharing of information, ideas, interests, and other forms of expression through virtual communities and networks." As a result on this page you will find some platforms that you may not think as Social Media. There are links to useful, tools, technqiues & tradecraft.If you aare looking for Telegram that has its own repo.</p>
+<p align="center">
+  <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
+</p>
+<br></br>
 <table>
   <tr>
     <td>Discord</td>
@@ -30,9 +31,6 @@ The distinction between traditional social media and messenger apps is probably 
   </tr>
 </table>
 <br></br>
-<p align="center">
-  <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
-</p>
 </table>
 <br></br>
 <table>
