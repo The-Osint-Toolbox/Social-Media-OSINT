@@ -70,6 +70,7 @@
   <li><a href="https://www.osintcombine.com/social-geo-lens">Osint Combine</a></li>Social Geo Lens, this tool is designed to provide a map based interface for geo searching on social media platforms.
   <li><a href="https://www.osintcombine.com/facebook-search-tools">Osint Combine</a></li>This tool is a simple way to quickly search for multiple keywords from a list or open mutual friends for multiple profiles at the same time. 
   <li><a href="https://plessas.net/facebookmatrix">Plessas Facebook Matrix</a></li>This page contains Kirby Plessas Formulas for Searching Facebook.
+  <li><a href="http://socmint.tools/">Socmint Tool</a></li>Graph Search Tool.
   <li><a href="https://graph.tips/beta/">Sowdust Graph Tips</a></li>Replacement Graph Search developed by Sowdust.
   <li><a href="https://www.whopostedwhat.com/">Who Posted What</a></li>Whopostedwhat.com is a non public Facebook keyword search for people who work in the public interest. It allows you to search keywords on specific dates.
 </ul>
