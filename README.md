@@ -57,6 +57,13 @@
 <br></br>
 <table>
   <tr>
+    <td>Facebook</td>
+  </tr>
+</table>
+
+<br></br>
+<table>
+  <tr>
     <td>Instagram</td>
   </tr>
 </table>
@@ -80,17 +87,10 @@
   <li><a href="https://www.picuki.com/">Picuki</a></li>Instgram Editor & Viewer.
   <li><a href="https://github.com/megadose/toutatis">Toutatis</a></li>Extract information from instagrams accounts such as e-mails & phone numbers.
 </ul>
-<br></br>
-<table>
-  <tr>
-    <td>Facebook</td>
-  </tr>
-</table>
 <table>
   <tr>
     <td>Linkedin</td>
   </tr>
- 
 <br></br>
 </table>
 <ul>
