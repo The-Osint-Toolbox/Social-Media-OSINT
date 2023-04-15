@@ -1,10 +1,14 @@
 # Social-Media-OSINT
 <p>The distinction between traditional social media and messenger apps is probably not as defined as it once was, "Social media are interactive technologies that facilitate the creation and sharing of information, ideas, interests, and other forms of expression through virtual communities and networks." As a result on this page you will find some platforms that you may not think as Social Media. There are links to useful, tools, technqiues & tradecraft. If you aare looking for Telegram that has its own repo.</p>
+<br></br>
 <p align="center">
   <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
 </p>
 <br></br>
 <table>
+  <tr>
+    <td>Table of Contents</td>
+  </tr>
   <tr>
     <td>Discord</td>
   </tr>
@@ -29,7 +33,6 @@
 </table>
 <br></br>
 </table>
-<br></br>
 <table>
   <tr>
     <td>Discord</td>
@@ -99,6 +102,12 @@
   <li><a href="https://cse.google.co.nz/cse?cx=014394093098352383268:w7sqo_x4rb0">Custom Search Engine</a></li>UK Linkedin Search (2).
   <li><a href="https://recruitmentgeek.com/tools/linkedin/?sthash.Ls1u5yzO.mjjo#gsc.tab=0">Recruitment Geek</a></li>LinkedIn Xray Search.
 </ul>
+<br></br>
+<table>
+  <tr>
+    <td>Mastadon</td>
+  </tr>
+</table>
 <br></br>
 <table>
   <tr>
