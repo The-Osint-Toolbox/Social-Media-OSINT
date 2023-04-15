@@ -63,9 +63,12 @@
     <td>Facebook</td>
   </tr>
 </table>
+<p>Blogs</p>
+
 <p>Resources</p>
 <ul>
    <li><a href="https://www.codeofaninja.com/tools/find-facebook-id/">Codeofaninja</a></li>This tool called "Get Facebook ID" provides an easy and fast way to find a Facebook page's or Facebook profile's numeric ID.
+  <li><a href="https://intelx.io/tools?tab=facebook">Intelligence X</a></li>Facebook Graph Searcher.
   <li><a href="https://lookup-id.com/">Lookup-ID</a></li>Facebook profile ID / Group ID / Page ID lookup resource.
   <li><a href="https://www.osintcombine.com/social-geo-lens">Osint Combine</a></li>Social Geo Lens, this tool is designed to provide a map based interface for geo searching on social media platforms.
   <li><a href="https://www.osintcombine.com/facebook-search-tools">Osint Combine</a></li>This tool is a simple way to quickly search for multiple keywords from a list or open mutual friends for multiple profiles at the same time. 
