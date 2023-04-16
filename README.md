@@ -18,6 +18,9 @@
   <tr>
     <td>Instagram</td>
   </tr>
+   <tr>
+    <td>Kik</td>
+  </tr>
   <tr>
     <td>LinkedIn</td>
   </tr>
