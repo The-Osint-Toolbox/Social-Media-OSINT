@@ -106,6 +106,12 @@
   <li><a href="https://github.com/megadose/toutatis">Toutatis</a></li>Extract information from instagrams accounts such as e-mails & phone numbers.
   <li><a href="https://www.whopostedwhat.com/">Who Posted What</a></li>Finds Posts on Date Tagged With Location, for people who work in the public interest
 </ul>
+<br></br>
+<table>
+  <tr>
+    <td>Kik</td>
+  </tr>
+</table>
 <table>
   <tr>
     <td>Linkedin</td>
