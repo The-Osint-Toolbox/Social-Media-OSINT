@@ -127,12 +127,17 @@
 <ul>
   <li><a href="https://kikusernames.com/search">Kik Usernames</a></li>Search thousands of Kik usernames by username or location.
 </ul>
+<br></br>
 <table>
   <tr>
     <td>Linkedin</td>
   </tr>
-<br></br>
 </table>
+<p>Blogs</p>
+<ul>
+  <li><a href="https://www.cqcore.uk/are-you-linked-in/">Are You Linked in?</a></li>Blog by Ginger T & Ritu Gill on how to search linked without being logged in (2021).
+</ul>
+<p>Resources</p>
 <ul>
   <li><a href="https://freepeoplesearchtool.com/">Free Person Search Tool</a></li>Find people easily on Linkedin.
   <li><a href="https://cse.google.com/cse?cx=006639709984028990467:nl9wxsfepb0#gsc.tab=0">Custom Search Engine</a></li>UK Linkedin Search (1).
