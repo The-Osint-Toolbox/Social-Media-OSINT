@@ -81,6 +81,7 @@
    <li><a href="https://cse.google.com/cse?cx=013991603413798772546:jyvyp2ppxma#gsc.tab=0">CSE Facebook Image Search</a></li>Use Keywords to search Facebook for images.
     <li><a href="https://cse.google.com/cse?cx=016621447308871563343:vylfmzjmlti#gsc.tab=0">CSE Facebook Search</a></li>Obtain overall Results, Pages, Groups & Photos.
   <li><a href="https://intelx.io/tools?tab=facebook">Intelligence X</a></li>Facebook Graph Searcher.
+  <li><a href="https://inteltechniques.com/tools/Facebook.html">Intelltechniques</a></li>Facebook Search Tool.
   <li><a href="https://lookup-id.com/">Lookup-ID</a></li>Facebook profile ID / Group ID / Page ID lookup resource.
   <li><a href="https://www.osintcombine.com/social-geo-lens">Osint Combine</a></li>Social Geo Lens, this tool is designed to provide a map based interface for geo searching on social media platforms.
   <li><a href="https://www.osintcombine.com/facebook-search-tools">Osint Combine</a></li>This tool is a simple way to quickly search for multiple keywords from a list or open mutual friends for multiple profiles at the same time. 
@@ -135,6 +136,7 @@
   <li><a href="https://freepeoplesearchtool.com/">Free Person Search Tool</a></li>Find people easily on Linkedin.
   <li><a href="https://cse.google.com/cse?cx=006639709984028990467:nl9wxsfepb0#gsc.tab=0">Custom Search Engine</a></li>UK Linkedin Search (1).
   <li><a href="https://cse.google.co.nz/cse?cx=014394093098352383268:w7sqo_x4rb0">Custom Search Engine</a></li>UK Linkedin Search (2).
+  <li><a href="https://inteltechniques.com/tools/Linkedin.html">Inteltechniques</a></li>LinkedIn Search Tool.
   <li><a href="https://recruitmentgeek.com/tools/linkedin/?sthash.Ls1u5yzO.mjjo#gsc.tab=0">Recruitment Geek</a></li>LinkedIn Xray Search.
 </ul>
 <br></br>
