@@ -98,9 +98,9 @@
 </table>
 <p>Blogs</p>
 <ul>
-  <li><a href="https://nixintel.info/osint/how-to-find-timestamps-for-verification/">Nixintel How to find timestamps</a></li>
-  <li><a href="https://osintcurio.us/2019/07/16/searching-instagram/">TOCP How to search Instagram part 1</a></li>
-  <li><a href="https://osintcurio.us/2019/10/01/searching-instagram-part-2/">TOCP How to search Instagram part 2</a></li>
+  <li><a href="https://nixintel.info/osint/how-to-find-timestamps-for-verification/">Nixintel How to find timestamps</a></li>Nixintel blog on how to timestamps for verification (2022).
+  <li><a href="https://osintcurio.us/2019/07/16/searching-instagram/">TOCP How to search Instagram part 1</a></li>Technisette talks through how to search Instagram, for people, stories, keywords, hashtags, locations (2019).
+  <li><a href="https://osintcurio.us/2019/10/01/searching-instagram-part-2/">TOCP How to search Instagram part 2</a></li>Technisette continues her tutorial searching Instagram, for businessess, deleted content  and tracking followers (2019).
 </ul>
 <p>Resources</p>
 <ul>
