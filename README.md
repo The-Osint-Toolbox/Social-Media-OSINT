@@ -35,6 +35,9 @@
     <td>Snapchat</td>
   </tr>
   <tr>
+    <td>TikTok</td>
+  </tr>
+  <tr>
     <td>Twitter</td>
   </tr>
 </table>
@@ -119,6 +122,9 @@
     <td>Kik</td>
   </tr>
 </table>
+<ul>
+  <li><a href="https://kikusernames.com/search">Kik Usernames</a></li>Search thousands of Kik usernames by username or location.
+</ul>
 <table>
   <tr>
     <td>Linkedin</td>
@@ -153,7 +159,13 @@
 <p>Videos</p>
 <ul>
   <li><a href="https://www.youtube.com/watch?v=17yiLinMPpk">How to download Snapchat videos</a></li>
-</ul> 
+</ul>
+<br></br>
+<table>
+  <tr>
+    <td>TikTok</td>
+  </tr>
+</table>
 <br><br/>
 <table>
   <tr>
