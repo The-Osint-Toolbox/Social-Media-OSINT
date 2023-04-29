@@ -1,6 +1,6 @@
 # Social-Media-OSINT
 <p>The distinction between traditional social media and messenger apps is probably not as defined as it once was, "Social media are interactive technologies that facilitate the creation and sharing of information, ideas, interests, and other forms of expression through virtual communities and networks." As a result on this page you will find some platforms that you may not think as Social Media. There are links to useful, tools, technqiues & tradecraft.</p>
-<p>If you are looking for Telegram, I decided that it should have its own Repository, as it was quite a large section.</p>
+<p>If you are looking for Telegram, I decided that it should have its own repository, as it was quite a large section.</p>
 <table>
     <tr>
        <td><a href="https://github.com/cqcore/Telegram-OSINT">Telegram</a></td>
