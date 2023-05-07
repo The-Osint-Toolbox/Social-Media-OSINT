@@ -222,7 +222,7 @@ Please bear in mind that recent changes to Twitter, especially involving their A
  <li><a href="https://tweepdiff.com/">Tweep Diff</a></li>Compare Twitter friends and followers.
  <li><a href="https://www.heavy.ai/demos/tweetmap">Tweet Map</a></li>Tweetmap allows you to search for geographic and temporal distribution of words used in Twitter messages worldwide.
  <li><a href="https://tweettunnel.com/reverse.php">Tweet Tunnel</a></li>Old Tweets - view someone's earlier tweets.
- <li><a href="https://github.com/twintproject/twint">Twint</a></li>
+ <li><a href="https://github.com/twintproject/twint">Twint</a></li>An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API.
  <li><a href="https://twitter.com/search-advanced">Twitter's Advanced Search</a></li>
  <li><a href="https://twopcharts.com/">Twopcharts</a></li>
 </ul>
