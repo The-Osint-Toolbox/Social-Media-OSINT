@@ -220,7 +220,7 @@ Please bear in mind that recent changes to Twitter, especially involving their A
  <li><a href="https://tinfoleak.com/">Tinfoleak</a></li>
  <li><a href="https://tweetbeaver.com/">Tweet Beaver</a></li>
  <li><a href="https://tweepdiff.com/">Tweep Diff</a></li>
- <li><a href="https://www.heavy.ai/demos/tweetmap">Tweet Map</a></li>
+ <li><a href="https://www.heavy.ai/demos/tweetmap">Tweet Map</a></li>Tweetmap allows you to search for geographic and temporal distribution of words used in Twitter messages worldwide.
  <li><a href="https://tweettunnel.com/reverse.php">Tweet Tunnel</a></li>
  <li><a href="https://github.com/twintproject/twint">Twint</a></li>
  <li><a href="https://twitter.com/search-advanced">Twitter's Advanced Search</a></li>
