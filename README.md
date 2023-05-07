@@ -203,7 +203,7 @@ Please bear in mind that recent changes to Twitter, especially involving their A
  <li><a href="https://liwc.net/analyzewords/index.php">Analyze Words</a></li>AnalyzeWords helps you to understand the personality of a Twitter user by looking at how you use words.
  <li><a href="http://aware-online.com/en/osint-tools/twitter-search-tool/">Aware-Online</a></li>Advanced search queries tool, allow you to analyze and monitor an account on Twitter.
  <li><a href="https://birdhunt.co/">Birdhunt</a></li>BirdHunt uses Twitters GeoCoded tweet search to find tweets by location.
- <li><a href="https://botometer.osome.iu.edu/">Botometre</a></li>
+ <li><a href="https://botometer.osome.iu.edu/">Botometre</a></li>Botometer checks the activity of a Twitter account and gives it a score. Higher scores mean more bot-like activity.
  <li><a href="https://www.codeofaninja.com/tools/find-twitter-id/">Codeofaninja</a></li>Easy way for you to get a Twitter profile's numeric ID.
  <li><a href="https://foller.me/">Foller</a></li>
  <li><a href="https://followerwonk.com/">Followerwonk</a></li>
