@@ -167,10 +167,11 @@
 </ul>
 <p>Resources</p>
  <ul>
-  <li><a href="https://ghostcodes.com/">Ghostcodes</a></li>
-  <li><a href="https://map.snapchat.com/">Snapmap</a></li>
-  <li><a href="https://www.snapchat.com/discover">Snapchat Discover</a></li>
-  <li><a href="https://accounts.snapchat.com/">Snapchat Web</a></li>
+    <li><a href="https://ghostcodes.com/">Ghostcodes</a></li>GhostCodes is the largest online database of Snapchat Users.
+  <li><a href="https://map.snapchat.com/">Snapmap</a></li>Snap Map allows you to see where your Snapchat contacts are, share your current location and view Snaps from nearby-Snapchat users or users.
+  <li><a href="https://snapchat.com/discover">Snapchat Discover</a></li> Snapchat Discover is a new way to explore Stories from different editorial teams.
+  <li><a href="https://osintcombine.com/snapchat-multi-viewer">Snapchat Multi Viewer</a></li>This tool is designed to create efficiencies in viewing multiple areas on snapchat using the provided embed feature by Snapchat.
+  <li><a href="https://accounts.snapchat.com/">Snapchat Web</a></li>Snapchat for Web lets users chat and video call with friends, with all conversations syncing between devices.
  </ul>
 <p>Videos</p>
 <ul>
