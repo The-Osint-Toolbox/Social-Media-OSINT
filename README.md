@@ -215,7 +215,7 @@ Please bear in mind that recent changes to Twitter, especially involving their A
  <li><a href="https://onemilliontweetmap.com/">One Million Tweet Map </a></li> A geographical clustering engine for online maps to display and analyse big geolocalized data. 
  <li><a href="https://osintcombine.com/social-geo-lens">Osint Conbine</a></li>This tool is designed to provide a map based interface for geo searching on social media platform.
  <li><a href="https://realtoptweeps.com/rankings/">Real Top Tweeps</a></li>Rankings of active Twitter accounts per language.
- <li><a href="https://socialbearing.com/">Social Bearing</a></li>
+ <li><a href="https://socialbearing.com/">Social Bearing</a></li>Free Twitter analytics & search for tweets, timelines & twitter maps.*Currently Not Working*
  <li><a href="http://spoonbill.io/">Spoonbill</a></li>
  <li><a href="https://tinfoleak.com/">Tinfoleak</a></li>
  <li><a href="https://tweetbeaver.com/">Tweet Beaver</a></li>
