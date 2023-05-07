@@ -200,7 +200,7 @@ The resources listed below all do very similar things but you can gleam differen
 Please bear in mind recent changes to Twitter, especially involving their API (March 2023). this may have an adverse affect on some resources until the owners have had chance to adapt.
 <br></br>
 <ul>
- <li><a href="https://liwc.net/analyzewords/index.php">Analyze Words</a></li>
+ <li><a href="https://liwc.net/analyzewords/index.php">Analyze Words</a></li>AnalyzeWords helps you to understand the personality of a Twitter user by looking at how you use words.
  <li><a href="http://aware-online.com/en/osint-tools/twitter-search-tool/">Aware-Online</a></li>
  <li><a href="https://birdhunt.co/">Birdhunt</a></li>
  <li><a href="https://botometer.osome.iu.edu/">Botometre</a></li>
