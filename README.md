@@ -205,7 +205,7 @@ Please bear in mind that recent changes to Twitter, especially involving their A
  <li><a href="https://birdhunt.co/">Birdhunt</a></li>BirdHunt uses Twitters GeoCoded tweet search to find tweets by location.
  <li><a href="https://botometer.osome.iu.edu/">Botometre</a></li>Botometer checks the activity of a Twitter account and gives it a score. Higher scores mean more bot-like activity.
  <li><a href="https://www.codeofaninja.com/tools/find-twitter-id/">Codeofaninja</a></li>Easy way for you to get a Twitter profile's numeric ID.
- <li><a href="https://foller.me/">Foller</a></li>
+ <li><a href="https://foller.me/">Foller</a></li>Twitter analytics shows followers, hashtags, topics, mentions, and other statistics for any public Twitter profile. *Currently Not Working*
  <li><a href="https://followerwonk.com/">Followerwonk</a></li>
  <li><a href="http://geosocialfootprint.com/">Geo Social Footprint</a></li>
  <li><a href="https://hashatit.com/">Hash At It</a></li>
