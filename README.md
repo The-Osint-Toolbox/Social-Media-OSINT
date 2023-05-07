@@ -219,7 +219,7 @@ Please bear in mind that recent changes to Twitter, especially involving their A
  <li><a href="http://spoonbill.io/">Spoonbill</a></li>Spoonbill lets you see profile changes from the people you follow on Twitter or other social networks.
  <li><a href="https://tinfoleak.com/">Tinfoleak</a></li>Search for Twitter users leaks.
  <li><a href="https://tweetbeaver.com/">Tweet Beaver</a></li>Analyse Twiiter accounts. *Currently Not Working*
- <li><a href="https://tweepdiff.com/">Tweep Diff</a></li>
+ <li><a href="https://tweepdiff.com/">Tweep Diff</a></li>Compare Twitter friends and followers.
  <li><a href="https://www.heavy.ai/demos/tweetmap">Tweet Map</a></li>Tweetmap allows you to search for geographic and temporal distribution of words used in Twitter messages worldwide.
  <li><a href="https://tweettunnel.com/reverse.php">Tweet Tunnel</a></li>
  <li><a href="https://github.com/twintproject/twint">Twint</a></li>
