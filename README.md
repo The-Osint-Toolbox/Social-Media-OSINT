@@ -207,8 +207,8 @@ Please bear in mind that recent changes to Twitter, especially involving their A
  <li><a href="https://www.codeofaninja.com/tools/find-twitter-id/">Codeofaninja</a></li>Easy way for you to get a Twitter profile's numeric ID.
  <li><a href="https://foller.me/">Foller</a></li>Twitter analytics shows followers, hashtags, topics, mentions, and other statistics for any public Twitter profile. *Currently Not Working*
  <li><a href="https://followerwonk.com/">Followerwonk</a></li>Twitter analytics tool used to find, analyze, and optimize for social growth and helps to explore and grow user's social graph.
- <li><a href="http://geosocialfootprint.com/">Geo Social Footprint</a></li>
- <li><a href="https://hashatit.com/">Hash At It</a></li>
+ <li><a href="http://geosocialfootprint.com/">Geo Social Footprint</a></li>A geosocial footprint is the combined bits of location information that a user divulges through social media, which ultimately forms the users location "footprint". *Currently Not Working*
+ <li><a href="https://hashatit.com/">Hash At It</a></li>Hashtag search engine. *Currently Not Returning Twiiter Hashtags*
  <li><a href="https://inteltechniques.com/tools/Twitter.html">Inteltechniques</a></li>
  <li><a href="https://intelx.io/tools?tab=twitter">Intelx</a></li>
  <li><a href="https://makeadverbsgreatagain.org/allegedly/">Make Adverbs Great Again</a></li>
