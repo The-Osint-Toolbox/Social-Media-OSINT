@@ -161,6 +161,10 @@
     <td>Snapchat</td>
   </tr>
 </table>
+<p>Blogs</p>
+<ul>
+  <li><a href="https://www.lifewire.com/snapchat-emoji-meanings-3485999">Lifewire</a></li>The Quick Guide to Snapchat Emoji Meanings
+</ul>
 <p>Resources</p>
  <ul>
   <li><a href="https://ghostcodes.com/">Ghostcodes</a></li>
