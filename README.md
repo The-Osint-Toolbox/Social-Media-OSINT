@@ -197,12 +197,12 @@
 <p>Resources</p>
 The resources listed below all do very similar things but you can gleam different kinds of information about a Twtiier account, so it always worth checking them all out. Some sites may need you to sign in to your own account to work.
 <br></br>
-Please bear in mind recent changes to Twitter, especially involving their API (March 2023). this may have an adverse affect on some resources until the owners have had chance to adapt.
+Please bear in mind that recent changes to Twitter, especially involving their API (March 2023). may have an adverse affect on some resources until the owners have had chance to adapt. It is more likley now that you may have to log into your own / sock Twitter account to be able to use some of the below resources. 
 <br></br>
 <ul>
  <li><a href="https://liwc.net/analyzewords/index.php">Analyze Words</a></li>AnalyzeWords helps you to understand the personality of a Twitter user by looking at how you use words.
- <li><a href="http://aware-online.com/en/osint-tools/twitter-search-tool/">Aware-Online</a></li>
- <li><a href="https://birdhunt.co/">Birdhunt</a></li>
+ <li><a href="http://aware-online.com/en/osint-tools/twitter-search-tool/">Aware-Online</a></li>Advanced search queries tool, allow you to analyze and monitor an account on Twitter.
+ <li><a href="https://birdhunt.co/">Birdhunt</a></li>BirdHunt uses Twitters GeoCoded tweet search to find tweets by location.
  <li><a href="https://botometer.osome.iu.edu/">Botometre</a></li>
  <li><a href="https://www.codeofaninja.com/tools/find-twitter-id/">Codeofaninja</a></li>Easy way for you to get a Twitter profile's numeric ID.
  <li><a href="https://foller.me/">Foller</a></li>
