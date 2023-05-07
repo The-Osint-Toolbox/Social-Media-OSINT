@@ -164,6 +164,7 @@
 <p>Blogs</p>
 <ul>
   <li><a href="https://www.lifewire.com/snapchat-emoji-meanings-3485999">Lifewire</a></li>The Quick Guide to Snapchat Emoji Meanings
+  <li><a href="https://osintcurio.us/2020/04/13/using-snapchat-for-osint-10-minute-tip/">TOCP</a></li>How to use Snapmap and download videos.
 </ul>
 <p>Resources</p>
  <ul>
