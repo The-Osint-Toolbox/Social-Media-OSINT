@@ -156,6 +156,10 @@
     <td>Mastadon</td>
   </tr>
 </table>
+<p>Blogs</p>
+<ul>
+  <li><a href="https://www.secjuice.com/mastodon-osint-a-comprehensive-introduction/">Secjuice</a></li>Part one on Mastodon, focused on gathering OSINT from the platform's users, instances and network.
+</ul>
 <br></br>
 <table>
   <tr>
