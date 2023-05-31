@@ -200,6 +200,7 @@
   <li><a href="https://nixintel.info/osint/how-to-find-timestamps-for-verification/">Nixintel How to find timestamps</a></li>Nixintel blog on how to find timestamps for verification (2022).
   <li><a href="https://gralhix.com/2023/05/31/the-hidden-potential-of-public-twitter-lists/">Sofia Santos</a></li>The Hidden Potential of Public Twitter Lists (2023).
 </ul>
+<br></br>
 <p>Resources</p>
 The resources listed below all do very similar things but you can gleam different kinds of information about a Twtiier account, so it always worth checking them all out. Some sites may need you to sign in to your own account to work.
 <br></br>
@@ -232,6 +233,21 @@ Please bear in mind that recent changes to Twitter, especially involving their A
  <li><a href="https://twitter.com/search-advanced">Twitter's Advanced Search</a></li>Twitter advanced search allows you to tailor search results to specific date ranges, people, phrases etc. 
  <li><a href="https://twopcharts.com/">Twopcharts</a></li>Twopcharts offers stats and data about how people have used their Twitter accounts. *Currently Not Working*
 </ul>
+<br></br>
+<p>Search Queries</p>
+<ul>
+<li>twitter.com/USERNAME</li>
+<li>twitter.com/USERNAME/lists</li> 
+<li>twitter.com/USERNAME/lists/memberships</li>
+<li>twitter.com/i/lists/search?q=KEYWORD</li>
+<li>twitter.com/search?q=KEYWORD</li>
+<li>Search bar:- to:username from:username</li>
+<li>Search bar:- to:profilename from:profiename</li>
+<li>Search bar:- geocode:53.8029??,-1.5515??,1km</li>
+<li>Search bar:- geocode:53.8029??,-1.5515??,1km since:20??-11-04 until:20??-11-06 (year-month-day)</li>
+<li>search bar:- Search for Tweet by date since:20??-12-15 until:20??-12-16 "topic"</li>
+</ul>
+<br></br>
 <p>Tools</p>
 <ul>
  <li><a href="https://treeverse.app/>">Treeverse</a></li>
