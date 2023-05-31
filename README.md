@@ -158,7 +158,7 @@
 </table>
 <p>Blogs</p>
 <ul>
-  <li><a href="https://www.secjuice.com/mastodon-osint-a-comprehensive-introduction/">Secjuice</a></li>Part one on Mastodon, focused on gathering OSINT from the platform's users, instances and network.
+  <li><a href="https://www.secjuice.com/mastodon-osint-a-comprehensive-introduction/">Secjuice</a></li>Part one on Mastodon, focused on gathering OSINT from the platform's users, instances and network (2022).
 </ul>
 <br></br>
 <table>
@@ -198,6 +198,7 @@
 <p>Blogs</p>
 <ul>
   <li><a href="https://nixintel.info/osint/how-to-find-timestamps-for-verification/">Nixintel How to find timestamps</a></li>Nixintel blog on how to find timestamps for verification (2022).
+  <li><a href="https://gralhix.com/2023/05/31/the-hidden-potential-of-public-twitter-lists/">Sofia Santos</a></li>The Hidden Potential of Public Twitter Lists (2023).
 </ul>
 <p>Resources</p>
 The resources listed below all do very similar things but you can gleam different kinds of information about a Twtiier account, so it always worth checking them all out. Some sites may need you to sign in to your own account to work.
