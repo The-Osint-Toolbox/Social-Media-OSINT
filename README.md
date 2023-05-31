@@ -52,7 +52,7 @@
 </table>
 <p>Blogs</p>
 <ul>
-  <li><a href="https://osintcurio.us/category/social-media/discord/">TOCP Investigating Discord</a></li>@BOsintBlanc blog on how to investigate and research Discord.
+  <li><a href="https://osintcurio.us/category/social-media/discord/">TOCP Investigating Discord</a></li>@BOsintBlanc blog on how to investigate and research Discord (2021).
 </ul>
 <p>Resources</p>
 <ul>
