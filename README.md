@@ -76,7 +76,9 @@
   </tr>
 </table>
 <p>Blogs</p>
-
+<ul>
+  <li><a href="https://asharbinkhalil.medium.com/osint-tip-search-private-facebook-profiles-for-valuable-information-43b5b2fe4c62">Ashar Khalil</a></li>Search private Facebook profiles for valuable information. (2023)
+</ul>
 <p>Resources</p>
 <ul>
    <li><a href="https://www.codeofaninja.com/tools/find-facebook-id/">Codeofaninja</a></li>This tool called "Get Facebook ID" provides an easy and fast way to find a Facebook page's or Facebook profile's numeric ID.
