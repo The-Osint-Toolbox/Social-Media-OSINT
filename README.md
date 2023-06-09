@@ -11,6 +11,11 @@
     </tr>
 </table>
 <br></br>
+<ul>
+  <li><a href="https://www.ovrdrv.com/knowledge/social-media-map/">Social Media Map</a></li>
+   <p>Navigate the Ever-Changing World of Social with the Social Media Map</p>
+</ul>
+<br></br>
 <table>
   <tr>
     <td>Table of Contents</td>
