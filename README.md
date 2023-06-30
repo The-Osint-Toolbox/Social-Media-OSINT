@@ -213,6 +213,8 @@ The resources listed below all do very similar things but you can gleam differen
 <br></br>
 Please bear in mind that recent changes to Twitter, especially involving their API (March 2023). may have an adverse affect on some resources until the owners have had chance to adapt. It is more likley now that you may have to log into your own / sock Twitter account to be able to use some of the below resources. 
 <br></br>
+*As of the 30/06 Twitter has also restricted access to Public accounts so more tools & resources may fail to work*
+<br></br>
 <ul>
  <li><a href="https://makeadverbsgreatagain.org/allegedly/">Allegedly </a></li>Checks a Twitter accounts activity against their posted timezone.
  <li><a href="https://liwc.net/analyzewords/index.php">Analyze Words</a></li>AnalyzeWords helps you to understand the personality of a Twitter user by looking at how you use words.
