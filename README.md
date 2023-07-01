@@ -14,6 +14,7 @@
 <ul>
   <li><a href="https://www.ovrdrv.com/knowledge/social-media-map/">Social Media Map</a></li>
    <p>Navigate the Ever-Changing World of Social with the Social Media Map</p>
+  <li><a href="https://thehiveindex.com/">The Hive Index</a></li>  <p>Curated lists of the top online social nedia communities to join.</p>
 </ul>
 <br></br>
 <table>
