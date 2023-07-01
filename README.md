@@ -11,16 +11,13 @@
     </tr>
 </table>
 <br></br>
-<ul>
-  <li><a href="https://www.ovrdrv.com/knowledge/social-media-map/">Social Media Map</a></li>
-   <p>Navigate the Ever-Changing World of Social with the Social Media Map</p>
-  <li><a href="https://thehiveindex.com/">The Hive Index</a></li>  <p>Curated lists of the top online social nedia communities to join.</p>
-</ul>
-<br></br>
 <table>
   <tr>
     <td>Table of Contents</td>
   </tr>
+  <tr>
+    <td>Miscellaneous</td>
+  </tr>
   <tr>
     <td>Discord</td>
   </tr>
@@ -51,6 +48,16 @@
 </table>
 <br></br>
 </table>
+<table>
+  <tr>
+    <td>Miscellaneous</td>
+  </tr>
+</table>
+<ul>
+  <li><a href="https://www.ovrdrv.com/knowledge/social-media-map/">Social Media Map</a></li><p>Navigate the Ever-Changing World of Social with the Social Media Map</p>
+  <li><a href="https://thehiveindex.com/">The Hive Index</a></li><p>Curated lists of the top online social nedia communities to join.</p>
+</ul>
+<br></br>
 <table>
   <tr>
     <td>Discord</td>
