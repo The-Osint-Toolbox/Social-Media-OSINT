@@ -187,8 +187,8 @@
   <li><a href="https://osintcurio.us/2020/04/13/using-snapchat-for-osint-10-minute-tip/">TOCP</a></li>How to use Snapmap and download videos.
 </ul>
 <p>Resources</p>
- <ul>
-    <li><a href="https://ghostcodes.com/">Ghostcodes</a></li>GhostCodes is the largest online database of Snapchat Users.
+<ul>
+  <li><a href="https://ghostcodes.com/">Ghostcodes</a></li>GhostCodes is the largest online database of Snapchat Users.
   <li><a href="https://map.snapchat.com/">Snapmap</a></li>Snap Map allows you to see where your Snapchat contacts are, share your current location and view Snaps from nearby-Snapchat users or users.
   <li><a href="https://snapchat.com/discover">Snapchat Discover</a></li> Snapchat Discover is a new way to explore Stories from different editorial teams.
   <li><a href="https://osintcombine.com/snapchat-multi-viewer">Snapchat Multi Viewer</a></li>This tool is designed to create efficiencies in viewing multiple areas on snapchat using the provided embed feature by Snapchat.
@@ -204,6 +204,31 @@
     <td>TikTok</td>
   </tr>
 </table>
+<p>Blogs</p>
+<ul>
+  <li><a href="https://www.bellingcat.com/resources/2020/05/25/investigate-tiktok-like-a-pro/">Bellingcat</a></li>Investigate TikTok Like A Pro! (2022).
+  <li><a href="https://medium.com/@BTF117/tiktok-osint-targeted-user-investigation-9e206f8bb794">BTF_117</a></li>OSINT Investigations on TikTok Part 1 (2020).
+  <li><a href="https://medium.com/@BTF117/tiktok-osint-targeted-user-investigation-4f8a3ac0ecdc">BTF_117</a></li>OSINT Investigations on TikTok Part 2 (2020).
+  <li><a href="https://sector035.nl/search?q=tiktok">Sector035</a></li>A Week In OSINT TikTok entries. 
+  <li><a href="https://medium.com/@BTF117/tiktok-osint-targeted-user-investigation-part-3-3-scripts-bf0297b6475f">BTF_117</a></li>OSINT Investigations on TikTok Part 3 (2020).
+  <li><a href="https://www.secjuice.com/osint-investigations-on-tiktok/">Sinwindle</a></li>TikTok Targeted OSINT Investigations (2019).
+</ul>
+<p>Resources</p>
+<ul>
+  <li><a href="https://bellingcat.github.io/tiktok-timestamp/">Bellingcat</a></li>Obtain the timestamp of a TikTok video.
+  <li><a href="https://cse.google.com/cse?cx=011444696387487602669%3Aaqf7d9w73om#gsc.tab=0&gsc.q=johnsmith&gsc.sort=">Custom Search Engine</a></li>TikTok CSE search. 
+  <li><a href="https://github.com/drawrowfly/tiktok-scraper">Drawrowfly</a></li>TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata.
+  <li><a href="https://mavekite.com/">Analyse TikTok </a></li>A web application made for people who want to calculate tiktok engagement rate and analyse tiktok profile, video, song, or hashtag.
+  <li><a href="https://www.osintcombine.com/tiktok-quick-search">OSINT Combine</a></li>This tool is designed to provide a quick method to search usernames and hashtags on TikTok via a browser.
+  <li><a href="https://snaptik.app/">SnapTik</a></li>TikTok video downloader without the watermark.
+  <li><a href="https://github.com/sinwindie/OSINT/tree/master/TikTok">Sinwindle</a></li>Sinwindle's gitHub TikTok tools. 
+  <li><a href="https://www.tiktok.com/foryou">TikTok For You</a></li>For You is a personalized feed of videos based on your interests and engagement.
+  <li><a href="https://tiktake.org/">TikTake</a></li>Download TikTok videos and more without any watermark.
+  <li><a href="https://tiktokd.com/">TikTokD</a></li>Download TikTok videos without watermark via username.
+  <li><a href="https://tiktokdownloader.com/">TikTok Downloader</a></li>Download TikTok videos without the watermark.
+  <li><a href="https://ttdown.org/">Ttdown</a></li>Download tiktok video to mp4 & mp3.
+  <li><a href="https://vidnice.com/">Vidnice</a></li>VidNice is a TikTok Web Viewer that you can easily browse users, followers, hashtags, popular contents, statistics and much more.
+</ul>
 <br><br/>
 <table>
   <tr>
