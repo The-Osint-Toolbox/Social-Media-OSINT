@@ -209,9 +209,9 @@
   <li><a href="https://www.bellingcat.com/resources/2020/05/25/investigate-tiktok-like-a-pro/">Bellingcat</a></li>Investigate TikTok Like A Pro! (2022).
   <li><a href="https://medium.com/@BTF117/tiktok-osint-targeted-user-investigation-9e206f8bb794">BTF_117</a></li>OSINT Investigations on TikTok Part 1 (2020).
   <li><a href="https://medium.com/@BTF117/tiktok-osint-targeted-user-investigation-4f8a3ac0ecdc">BTF_117</a></li>OSINT Investigations on TikTok Part 2 (2020).
-  <li><a href="https://sector035.nl/search?q=tiktok">Sector035</a></li>A Week In OSINT TikTok entries. 
   <li><a href="https://medium.com/@BTF117/tiktok-osint-targeted-user-investigation-part-3-3-scripts-bf0297b6475f">BTF_117</a></li>OSINT Investigations on TikTok Part 3 (2020).
-  <li><a href="https://www.secjuice.com/osint-investigations-on-tiktok/">Sinwindle</a></li>TikTok Targeted OSINT Investigations (2019).
+  <li><a href="https://sector035.nl/search?q=tiktok">Sector035</a></li>A Week In OSINT TikTok entries. 
+  <li><a href="https://www.secjuice.com/osint-investigations-on-tiktok/">Sinwindle</a></li>TikTok Targeted OSINT Investigations (2019).
 </ul>
 <p>Resources</p>
 <ul>
