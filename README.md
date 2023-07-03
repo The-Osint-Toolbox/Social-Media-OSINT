@@ -211,7 +211,6 @@
   <li><a href="https://medium.com/@BTF117/tiktok-osint-targeted-user-investigation-9e206f8bb794">BTF_117</a></li>OSINT Investigations on TikTok Part 1 (2020).
   <li><a href="https://medium.com/@BTF117/tiktok-osint-targeted-user-investigation-4f8a3ac0ecdc">BTF_117</a></li>OSINT Investigations on TikTok Part 2 (2020).
   <li><a href="https://medium.com/@BTF117/tiktok-osint-targeted-user-investigation-part-3-3-scripts-bf0297b6475f">BTF_117</a></li>OSINT Investigations on TikTok Part 3 (2020).
-  <li><a href="https://sector035.nl/search?q=tiktok">Sector035</a></li>A Week In OSINT TikTok entries. 
   <li><a href="https://www.secjuice.com/osint-investigations-on-tiktok/">Sinwindle</a></li>TikTok Targeted OSINT Investigations (2019).
 </ul>
 <p>Resources</p>
@@ -221,6 +220,7 @@
   <li><a href="https://github.com/drawrowfly/tiktok-scraper">Drawrowfly</a></li>TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata.
   <li><a href="https://mavekite.com/">Analyse TikTok </a></li>A web application made for people who want to calculate tiktok engagement rate and analyse tiktok profile, video, song, or hashtag.
   <li><a href="https://www.osintcombine.com/tiktok-quick-search">OSINT Combine</a></li>This tool is designed to provide a quick method to search usernames and hashtags on TikTok via a browser.
+  <li><a href="https://sector035.nl/search?q=tiktok">Sector035</a></li>A Week In OSINT TikTok entries. 
   <li><a href="https://snaptik.app/">SnapTik</a></li>TikTok video downloader without the watermark.
   <li><a href="https://github.com/sinwindie/OSINT/tree/master/TikTok">Sinwindle</a></li>Sinwindle's gitHub TikTok tools. 
   <li><a href="https://www.tiktok.com/foryou">TikTok For You</a></li>For You is a personalized feed of videos based on your interests and engagement.
