@@ -222,7 +222,7 @@
   <li><a href="https://www.osintcombine.com/tiktok-quick-search">OSINT Combine</a></li>This tool is designed to provide a quick method to search usernames and hashtags on TikTok via a browser.
   <li><a href="https://sector035.nl/search?q=tiktok">Sector035</a></li>A Week In OSINT TikTok entries. 
   <li><a href="https://snaptik.app/">SnapTik</a></li>TikTok video downloader without the watermark.
-  <li><a href="https://github.com/sinwindie/OSINT/tree/master/TikTok">Sinwindle</a></li>Sinwindle's gitHub TikTok tools. 
+  <li><a href="https://github.com/sinwindie/OSINT/tree/master/TikTok">Sinwindle</a></li>Sinwindle's GitHub TikTok tools. 
   <li><a href="https://www.tiktok.com/foryou">TikTok For You</a></li>For You is a personalized feed of videos based on your interests and engagement.
   <li><a href="https://tiktake.org/">TikTake</a></li>Download TikTok videos and more without any watermark.
   <li><a href="https://tiktokd.com/">TikTokD</a></li>Download TikTok videos without watermark via username.
