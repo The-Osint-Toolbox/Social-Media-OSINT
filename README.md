@@ -156,6 +156,7 @@
 <p>Blogs</p>
 <ul>
   <li><a href="https://www.cqcore.uk/are-you-linked-in/">Are You Linked in?</a></li>Blog by Ginger T & Ritu Gill on how to search linked without being logged in (2021).
+  <li><a href="https://gijn.org/2023/06/27/social-search-techniques-guide-using-linkedin-henk-van-ess/">Henk van Ess</a></li>Social search techniques using Linkedin (2023).
 </ul>
 <p>Resources</p>
 <ul>
