@@ -174,6 +174,7 @@
 </table>
 <p>Blogs</p>
 <ul>
+  <li><a href="https://medium.com/@TheInvestigatorBlog/what-you-didnt-know-about-mastodon-investigations-f380b5303fc8">The Investigator Blog</a></li>What you didn't know about Mastaodon Investigations.
   <li><a href="https://www.secjuice.com/mastodon-osint-a-comprehensive-introduction/">Secjuice</a></li>Part one on Mastodon, focused on gathering OSINT from the platform's users, instances and network (2022).
 </ul>
 <br></br>
