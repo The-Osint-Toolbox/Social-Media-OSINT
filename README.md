@@ -91,6 +91,7 @@
 <p>Blogs</p>
 <ul>
   <li><a href="https://asharbinkhalil.medium.com/osint-tip-search-private-facebook-profiles-for-valuable-information-43b5b2fe4c62">Ashar Khalil</a></li>Search private Facebook profiles for valuable information. (2023)
+<li><a href="https://gijn.org/2023/06/26/social-search-techniques-using-facebook-henk-van-ess/">Henk van Hess</a></liSocial search techniques using Facebook. (2023)  
 <li><a href="https://www.lifewire.com/recover-facebook-password-without-email-and-phone-number-4582257">Lifewire</a></li>How to check if a email or telephone number is linked to a Facebook account. (2023)
 </ul>
 <p>Resources</p>
