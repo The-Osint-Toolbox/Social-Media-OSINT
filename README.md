@@ -37,6 +37,9 @@
     <td>Mastadom</td>
   </tr>
   <tr>
+    <td>Reddit</td>
+  </tr>
+  <tr>
     <td>Snapchat</td>
   </tr>
   <tr>
@@ -186,6 +189,12 @@
   <li><A href="https://mastovue.glitch.me/#/">MastoVue</A></li>Peek into the public Mastodon timeline or search for hashtags. 
 </ul>
 <br></br>
+<table>
+  <tr>
+  <td>Reddit</td>
+  </tr>
+</table>
+<br><br/>
 <table>
   <tr>
     <td>Snapchat</td>
