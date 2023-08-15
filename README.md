@@ -121,6 +121,7 @@
 </table>
 <p>Blogs</p>
 <ul>
+<li><a href="https://www.aware-online.com/en/view-instagram-profiles-without-logging-in/">Aware-Online</a></li>View Instagram Profile without logging in. (2021)
   <li><a href="https://nixintel.info/osint/how-to-find-timestamps-for-verification/">Nixintel How to find timestamps</a></li>Nixintel's blog on how to find timestamps for verification (2022).
   <li><a href="https://nixintel.info/osint-tools/instagram-osint-a-promising-new-python-tool/">Nixintel Instagram Osint</a></li>Nixintel's tutorial on how to install InstaScraper.
   <li><a href="https://osintcurio.us/2019/07/16/searching-instagram/">TOCP How to search Instagram part 1</a></li>Technisette talks through how to search Instagram, for people, stories, keywords, hashtags, locations (2019).
