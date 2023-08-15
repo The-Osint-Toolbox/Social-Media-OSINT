@@ -132,8 +132,8 @@
   <li><a href="https://www.codeofaninja.com/tools/find-instagram-user-id/">Codeofaninja</a></li>Easy way for developers and designers to get Instagram account numeric ID by username.
   <li><a href="https://downloadgram.app/">Download Gram</a></li>Instagram downloader tool, it helps you to download Instagram photos and videos.
   <li><a href="https://dumpoir.com/">Dumpoir</a></li>Instagram story viewer anonymously - Online view profiles, reels, stories IG, followers, tagged posts.
-  <li><a href="https://inflact.com/downloader/instagram/photo/">Inflact</a></li>Use Photo Downloader for Instagram to save Instagram photos and videos.
   <li><a href="https://imginn.com/">Imginn</a></li>Download instagram photos, videos and stories highlights.
+  <li><a href="https://inflact.com/downloader/instagram/photo/">Inflact</a></li>Use Photo Downloader for Instagram to save Instagram photos and videos.
   <li><a href="https://github.com/instaloader/instaloader">Instaloader</a></li>Download pictures (or videos) along with their captions.
   <li><a href="https://inteltechniques.com/tools/Instagram.html">Inteltechniques</a></li>Inteltechniques Instagram search tool.
   <li><a href="https://github.com/althonos/InstaLooter">Instalooter</a></li>API-less Instagram pictures and videos downloader.
@@ -141,6 +141,7 @@
   <li><a href="https://www.osintcombine.com/instagram-explorer">Osint Combinne</a></li>Find images by date on Instagram at particular locations easier and more efficient.
   <li><a href="https://www.picnob.com/">Picnob</a></li>Enables you to browse Instagram profiles without the need of an account.
   <li><a href="https://www.picuki.com/">Picuki</a></li>Instgram Editor & Viewer.
+  <li><a href="https://www.storysaver.net/">Story Saver</a></li>Download Instagram stories, highlights and videos.
   <li><a href="https://github.com/megadose/toutatis">Toutatis</a></li>Extract information from instagrams accounts such as e-mails & phone numbers.
   <li><a href="https://www.whopostedwhat.com/">Who Posted What</a></li>Finds Posts on Date Tagged With Location, for people who work in the public interest
 </ul>
