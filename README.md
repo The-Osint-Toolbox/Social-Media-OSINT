@@ -211,6 +211,7 @@
 </ul>
 <p>Resources</p>
 <ul>
+  <li><a href="https://backmoji.myosint.training/">Backmoji</a></li>The Bitmoji avatar history enumerator.
   <li><a href="https://ghostcodes.com/">Ghostcodes</a></li>GhostCodes is the largest online database of Snapchat Users.
   <li><a href="https://map.snapchat.com/">Snapmap</a></li>Snap Map allows you to see where your Snapchat contacts are, share your current location and view Snaps from nearby-Snapchat users or users.
   <li><a href="https://snapchat.com/discover">Snapchat Discover</a></li> Snapchat Discover is a new way to explore Stories from different editorial teams.
