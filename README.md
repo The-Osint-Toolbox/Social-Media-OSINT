@@ -57,7 +57,8 @@
   </tr>
 </table>
 <ul>
-  <li><a href="https://www.ovrdrv.com/knowledge/social-media-map/">Social Media Map</a></li><p>Navigate the Ever-Changing World of Social with the Social Media Map</p>
+  <li><a href="https://socialmedialist.org/index.html">Social Media List</a></li> <p>A list of top 250 social media apps and networks worldwide.</p>
+  <li><a href="https://www.ovrdrv.com/knowledge/social-media-map/">Social Media Map</a></li><p>Navigate the Ever-Changing World of Social with the Social Media Map.</p>
   <li><a href="https://thehiveindex.com/">The Hive Index</a></li><p>Curated lists of the top online social nedia communities to join.</p>
 </ul>
 <br></br>
