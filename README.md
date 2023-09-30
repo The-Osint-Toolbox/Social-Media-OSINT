@@ -60,6 +60,7 @@
   <li><a href="https://socialmedialist.org/index.html">Social Media List</a></li> <p>A list of top 250 social media apps and networks worldwide.</p>
   <li><a href="https://www.ovrdrv.com/knowledge/social-media-map/">Social Media Map</a></li><p>Navigate the Ever-Changing World of Social with the Social Media Map.</p>
   <li><a href="https://thehiveindex.com/">The Hive Index</a></li><p>Curated lists of the top online social nedia communities to join.</p>
+  <li><a href="https://www.smat-app.com/">Smat</a></li><p>Analyze hate and disinformation online.</p>
 </ul>
 <br></br>
 <table>
@@ -136,6 +137,7 @@
   <li><a href="https://imginn.com/">Imginn</a></li>Download instagram photos, videos and stories highlights.
   <li><a href="https://inflact.com/downloader/instagram/photo/">Inflact</a></li>Use Photo Downloader for Instagram to save Instagram photos and videos.
   <li><a href="https://github.com/instaloader/instaloader">Instaloader</a></li>Download pictures (or videos) along with their captions.
+  <li><a href="https://instanavigation.com/">Instanavigation</a></li>View Instagram anonymously.
   <li><a href="https://inteltechniques.com/tools/Instagram.html">Inteltechniques</a></li>Inteltechniques Instagram search tool.
   <li><a href="https://github.com/althonos/InstaLooter">Instalooter</a></li>API-less Instagram pictures and videos downloader.
   <li><a href="https://izuum.net/">iZuum</a></li>Instagram profile downloader. 
