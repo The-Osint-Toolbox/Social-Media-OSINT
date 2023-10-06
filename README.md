@@ -270,8 +270,9 @@
 </table>
 <p>Blogs</p>
 <ul>
-  <li><a href="https://nixintel.info/osint/how-to-find-timestamps-for-verification/">Nixintel How to find timestamps</a></li>Nixintel blog on how to find timestamps for verification (2022).
+  <li><a href="https://hatless1der.com/osint-quick-tips-2-simple-methods-of-getting-around-twitters-annoying-login-wall/">Hatless1der</a></li>Simple methods of getting around Twitter’s annoying login wall (2023).
   <li><a href="https://gijn.org/2023/06/28/social-search-techniques-using-twitter-henk-van-ess/">Henk van Ess</a></li>Social search techniques using Twitter (2023).
+  <li><a href="https://nixintel.info/osint/how-to-find-timestamps-for-verification/">Nixintel How to find timestamps</a></li>Nixintel blog on how to find timestamps for verification (2022).
   <li><a href="https://gralhix.com/2023/05/31/the-hidden-potential-of-public-twitter-lists/">Sofia Santos</a></li>The Hidden Potential of Public Twitter Lists (2023).
 </ul>
 <br></br>
