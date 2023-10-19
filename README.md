@@ -48,6 +48,9 @@
   <tr>
     <td>Twitter</td>
   </tr>
+   <tr>
+    <td>WhatsApp</td>
+  </tr>
 </table>
 <br></br>
 </table>
