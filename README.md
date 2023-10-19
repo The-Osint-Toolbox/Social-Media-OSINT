@@ -299,6 +299,7 @@ Please bear in mind that recent changes to Twitter, especially involving their A
  <li><a href="https://hashatit.com/">Hash At It</a></li>Hashtag search engine. *Currently Not Returning Twiiter Hashtags*
  <li><a href="https://inteltechniques.com/tools/Twitter.html">Inteltechniques</a></li>Twitter aggregator search tool.
  <li><a href="https://intelx.io/tools?tab=twitter">Intelx</a></li>Analyse Twitter profiles and location search.
+ <li><a href="https://nitter.net/">Nitter</a></li>Nitter is a free and open source alternative viewer for Twitter/X. 
  <li><a href="https://onemilliontweetmap.com/">One Million Tweet Map </a></li> A geographical clustering engine for online maps to display and analyse big geolocalized data. 
  <li><a href="https://osintcombine.com/social-geo-lens">Osint Conbine</a></li>This tool is designed to provide a map based interface for geo searching on social media platform.
  <li><a href="https://realtoptweeps.com/rankings/">Real Top Tweeps</a></li>Rankings of active Twitter accounts per language.
