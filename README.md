@@ -332,6 +332,30 @@ Please bear in mind that recent changes to Twitter, especially involving their A
  <li><a href="https://twittervideodownloader.com/">Twitter Video Downloader</a></li> 
  <li><a href="https://savetweetvid.com/">Twitter Video Downloader</a></li>
 </ul>
+<br></br>
+<table>
+  <tr>
+    <td>WhatsApp</td>
+  </tr>
+</table>
+ <ul>
+  <li><a href="https://appgrouplink.com/">App Group Link</a></li>
+   <p>Latest active WhatsApp group links </p>
+  <li><a href="https://groupda.net/add/">Groupda</a></li>
+   <p>Search WhatsApp groups.</p>
+  <li><a href="https://groupifyhub.com/">Groupify Hub</a></li> 
+   <p>Find a UK WhatsApp group link.</p>
+  <li><a href="https://en.groupio.app/">Groupio</a></li> 
+   <p>Find and search WhatsApp groups.</p>
+  <li><a href="https://whatgroup.link/">WhatGroup Links</a></li> 
+   <p>Best WhatsApp group links</p>
+  <li><a href="https://www.whtsgrouplinks.com/">Whts Group Links</a> </li>
+   <p>Active WhatsApp group links.</p>  
+  <li><a href="https://whatsgrouplink.com/">WhatsApp Group Links.</a></li>
+   <p>Latest WhatsApp group links.</p>
+  <li><a href="https://whatsgroupslink.com/">Whats Group Links</a></li> 
+   <p>Latest Whatsapp group links</p>
+</ul>
 
 
   
