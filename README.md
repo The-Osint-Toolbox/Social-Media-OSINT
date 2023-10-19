@@ -251,6 +251,7 @@
 <p>Resources</p>
 <ul>
   <li><a href="https://bellingcat.github.io/tiktok-timestamp/">Bellingcat</a></li>Obtain the timestamp of a TikTok video.
+  <li><a href="https://github.com/bellingcat/tiktok-hashtag-analysis">Bellingcat</a></li>Provides tools to analyze hashtags within posts scraped from TikTok.
   <li><a href="https://cse.google.com/cse?cx=011444696387487602669%3Aaqf7d9w73om#gsc.tab=0&gsc.q=johnsmith&gsc.sort=">Custom Search Engine</a></li>TikTok CSE search. 
   <li><a href="https://github.com/drawrowfly/tiktok-scraper">Drawrowfly</a></li>TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata.
   <li><a href="https://mavekite.com/">Analyse TikTok </a></li>A web application made for people who want to calculate tiktok engagement rate and analyse tiktok profile, video, song, or hashtag.
