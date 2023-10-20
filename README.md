@@ -46,7 +46,7 @@
     <td>TikTok</td>
   </tr>
   <tr>
-    <td>Twitter</td>
+    <td>Twitter X</td>
   </tr>
    <tr>
     <td>WhatsApp</td>
@@ -269,7 +269,7 @@
 <br><br/>
 <table>
   <tr>
-  <td>Twitter</td>
+  <td>Twitter X</td>
   </tr>
 </table>
 <p>Blogs</p>
