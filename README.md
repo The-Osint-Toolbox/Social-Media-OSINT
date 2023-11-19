@@ -162,6 +162,7 @@
 </table>
 <p>There are other Kik OSINT resources that would be considered legitimate, however I have decided not to list them, due to the content they display.</p>
 <ul>
+  <li><a href="https://github.com/netkas-zz/KikToolset">Kik Toolset</a></li>Miscellaneous tools for Kik, Both useful and useless.
   <li><a href="https://kikusernames.com/search">Kik Usernames</a></li>Search thousands of Kik usernames by username or location.
 </ul>
 <br></br>
