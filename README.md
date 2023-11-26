@@ -196,7 +196,10 @@
 <ul>
   <li><a href="https://medium.com/@TheInvestigatorBlog/what-you-didnt-know-about-mastodon-investigations-f380b5303fc8">The Investigator Blog</a></li>What you didn't know about Mastaodon Investigations (2023).
   <li><a href="https://www.secjuice.com/mastodon-osint-a-comprehensive-introduction/">Secjuice</a></li>Part one on Mastodon, focused on gathering OSINT from the platform's users, instances and network (2022).
-  <li><a href="https://fedifinder.glitch.me/">Fedfinder</a></li>Find Fediverse user by their Twitter account. 
+</ul>
+<p>Resources</p>
+<ul>
+  <li><a href="https://fedifinder.glitch.me/">Fedfinder</a></li>Find Fediverse user by their Twitter account. 
   <li><a href="https://fediverse.info/explore/people">Fediverse</a></li>Fediverse people directory.
   <li><a href="https://github.com/C3n7ral051nt4g3ncy/Masto">Masto</a></li>Masto is an OSINT tool written in python to gather intelligence on Mastodon users and instances
   <li><A href="https://mastovue.glitch.me/#/">MastoVue</A></li>Peek into the public Mastodon timeline or search for hashtags. 
