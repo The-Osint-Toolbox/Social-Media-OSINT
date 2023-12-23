@@ -356,8 +356,8 @@ Please bear in mind that recent changes to Twitter, especially involving their A
  <ul>
   <li><a href="https://appgrouplink.com/">App Group Link</a></li>
    <p>Latest active WhatsApp group links </p>
-  <li><a href="https://github.com/dsonbaker/email2whatsapp">Email2WhatsApp</a></li> 
-   <p>It enables the discovery of WhatsApp numbers from email addresses.</p>
+  <li><a href="https://github.com/dsonbaker/email2whatsapp">Email2WhatsApp</a></li>
+   <p>It enables the discovery of WhatsApp numbers from email addresses.</p>
   <li><a href="https://groupda.net/add/">Groupda</a></li>
    <p>Search WhatsApp groups.</p>
   <li><a href="https://groupifyhub.com/">Groupify Hub</a></li> 
