@@ -234,10 +234,11 @@
 <ul>
   <li><a href="https://backmoji.myosint.training/">Backmoji</a></li>The Bitmoji avatar history enumerator.
   <li><a href="https://ghostcodes.com/">Ghostcodes</a></li>GhostCodes is the largest online database of Snapchat Users.
-  <li><a href="https://map.snapchat.com/">Snapmap</a></li>Snap Map allows you to see where your Snapchat contacts are, share your current location and view Snaps from nearby-Snapchat users or users.
   <li><a href="https://snapchat.com/discover">Snapchat Discover</a></li> Snapchat Discover is a new way to explore Stories from different editorial teams.
   <li><a href="https://osintcombine.com/snapchat-multi-viewer">Snapchat Multi Viewer</a></li>This tool is designed to create efficiencies in viewing multiple areas on snapchat using the provided embed feature by Snapchat.
   <li><a href="https://accounts.snapchat.com/">Snapchat Web</a></li>Snapchat for Web lets users chat and video call with friends, with all conversations syncing between devices.
+  <li><a href="https://github.com/Kr0wZ/SnapIntel">Snapintel</a></li> SnapIntel is a python tool providing you information about Snapchat users. 
+  <li><a href="https://map.snapchat.com/">Snapmap</a></li>SnapMap allows you to see where your Snapchat contacts are, share your current location and view Snaps from nearby-Snapchat users or users.
  </ul>
 <p>Videos</p>
 <ul>
