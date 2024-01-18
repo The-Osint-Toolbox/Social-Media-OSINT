@@ -317,16 +317,17 @@ Please bear in mind that recent changes to Twitter, especially involving their A
  <li><a href="https://onemilliontweetmap.com/">One Million Tweet Map </a></li> A geographical clustering engine for online maps to display and analyse big geolocalized data. 
  <li><a href="https://osintcombine.com/social-geo-lens">Osint Conbine</a></li>This tool is designed to provide a map based interface for geo searching on social media platform.
  <li><a href="https://realtoptweeps.com/rankings/">Real Top Tweeps</a></li>Rankings of active Twitter accounts per language.
- <li><a href="https://socialbearing.com/">Social Bearing</a></li>Free Twitter analytics & search for tweets, timelines & twitter maps.*Currently Not Working*
- <li><a href="http://spoonbill.io/">Spoonbill</a></li>Spoonbill lets you see profile changes from the people you follow on Twitter or other social networks.
+ <li><a href="https://socialbearing.com/">Social Bearing</a></li>Free Twitter analytics & search for tweets, timelines & twitter maps. *Currently Not Working*
+ <li><a href="http://spoonbill.io/">Spoonbill</a></li>Spoonbill lets you see profile changes from the people you follow on Twitter or other social networks. *Currently Not Working*
  <li><a href="https://tinfoleak.com/">Tinfoleak</a></li>Search for Twitter users leaks.
  <li><a href="https://tweetbeaver.com/">Tweet Beaver</a></li>Analyse Twiiter accounts. *Currently Not Working*
- <li><a href="https://tweepdiff.com/">Tweep Diff</a></li>Compare Twitter friends and followers.
+ <li><a href="https://tweepdiff.com/">Tweep Diff</a></li>Compare Twitter friends and followers. *Currently Not Working*
  <li><a href="https://www.heavy.ai/demos/tweetmap">Tweet Map</a></li>Tweetmap allows you to search for geographic and temporal distribution of words used in Twitter messages worldwide.
- <li><a href="https://tweettunnel.com/reverse.php">Tweet Tunnel</a></li>Old Tweets - view someone's earlier tweets.
- <li><a href="https://github.com/twintproject/twint">Twint</a></li>An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API.
+ <li><a href="https://tweettunnel.com/reverse.php">Tweet Tunnel</a></li>Old Tweets - view someone's earlier tweets. *Currently Not Working*
+ <li><a href="https://github.com/twintproject/twint">Twint</a></li>An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API. *Archived*
  <li><a href="https://twitter.com/search-advanced">Twitter's Advanced Search</a></li>Twitter advanced search allows you to tailor search results to specific date ranges, people, phrases etc. 
  <li><a href="https://twopcharts.com/">Twopcharts</a></li>Twopcharts offers stats and data about how people have used their Twitter accounts. *Currently Not Working*
+ <li><a href="https://waybacktweets.streamlit.app/">Wayback Tweets</a></li>Display multiple archived tweets on Wayback Machine and avoid opening each link manually.
 </ul>
 <br></br>
 <p>Search Queries</p>
