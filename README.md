@@ -141,6 +141,7 @@
   <li><a href="https://www.codeofaninja.com/tools/find-instagram-user-id/">Codeofaninja</a></li>Easy way for developers and designers to get Instagram account numeric ID by username.
   <li><a href="https://downloadgram.app/">Download Gram</a></li>Instagram downloader tool, it helps you to download Instagram photos and videos.
   <li><a href="https://dumpoir.com/">Dumpoir</a></li>Instagram story viewer anonymously - Online view profiles, reels, stories IG, followers, tagged posts.
+  <li><a href="https://greatfon.com/">GreatFon</a></li>Instagram story viewer - Watch profiles, stories, followers, reels, tagged web posts anonymously.
   <li><a href="https://imginn.com/">Imginn</a></li>Download instagram photos, videos and stories highlights.
   <li><a href="https://inflact.com/downloader/instagram/photo/">Inflact</a></li>Use Photo Downloader for Instagram to save Instagram photos and videos.
   <li><a href="https://github.com/instaloader/instaloader">Instaloader</a></li>Download pictures (or videos) along with their captions.
@@ -269,12 +270,15 @@
   <li><a href="https://www.osintcombine.com/tiktok-quick-search">OSINT Combine</a></li>This tool is designed to provide a quick method to search usernames and hashtags on TikTok via a browser.
   <li><a href="https://sector035.nl/search?q=tiktok">Sector035</a></li>A Week In OSINT TikTok entries. 
   <li><a href="https://snaptik.app/">SnapTik</a></li>TikTok video downloader without the watermark.
-  <li><a href="https://github.com/sinwindie/OSINT/tree/master/TikTok">Sinwindle</a></li>Sinwindle's GitHub TikTok tools. 
+  <li><a href="https://github.com/sinwindie/OSINT/tree/master/TikTok">Sinwindle</a></li>Sinwindle's GitHub TikTok tools.
+  <li><a href="https://tiker.cc/en">Tiker</a></li>Download any TikTok user's video anonymously, without registration and watermark.
   <li><a href="https://www.tiktok.com/foryou">TikTok For You</a></li>For You is a personalized feed of videos based on your interests and engagement.
+  <li><a href="https://www.tiktokstalk.com/">TikTokStalk</a></li>You can find users, hashtags, videos, music, and more on Tiktok.
   <li><a href="https://tiktake.org/">TikTake</a></li>Download TikTok videos and more without any watermark.
   <li><a href="https://tiktokd.com/">TikTokD</a></li>Download TikTok videos without watermark via username.
   <li><a href="https://tiktokdownloader.com/">TikTok Downloader</a></li>Download TikTok videos without the watermark.
   <li><a href="https://ttdown.org/">Ttdown</a></li>Download tiktok video to mp4 & mp3.
+  <li><a href="https://urlebird.com/">UrleBird</a></lI>TikTok Viewer, a website where you can analyze, discover and explore TikTok
   <li><a href="https://vidnice.com/">Vidnice</a></li>VidNice is a TikTok Web Viewer that you can easily browse users, followers, hashtags, popular contents, statistics and much more.
 </ul>
 <br><br/>
