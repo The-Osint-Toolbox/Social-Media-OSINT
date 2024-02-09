@@ -300,7 +300,7 @@ The resources listed below all do very similar things but you can gleam differen
 <br></br>
 Please bear in mind that recent changes to Twitter, especially involving their API (March 2023). may have an adverse affect on some resources until the owners have had chance to adapt. It is more likley now that you may have to log into your own / sock Twitter account to be able to use some of the below resources. I will wait for everything to settle after Twitter has become X. I will then look to refresh all these resources.
 <br></br>
-*As of the 30/06 Twitter has also restricted access to Public accounts so more tools & resources may fail to work*
+*As of the 30/06/23 Twitter has also restricted access to Public accounts so more tools & resources may fail to work*
 <br></br>
 <ul>
  <li><a href="https://makeadverbsgreatagain.org/allegedly/">Allegedly </a></li>Checks a Twitter accounts activity against their posted timezone.
@@ -310,10 +310,7 @@ Please bear in mind that recent changes to Twitter, especially involving their A
  <li><a href="https://botometer.osome.iu.edu/">Botometre</a></li>Botometer checks the activity of a Twitter account and gives it a score. Higher scores mean more bot-like activity.
  <li><a href="https://github.com/claromes/waybacktweets">Claromes</a></li>Find archived tweets on Wayback Machine in an easy way.
  <li><a href="https://www.codeofaninja.com/tools/find-twitter-id/">Codeofaninja</a></li>Easy way for you to get a Twitter profile's numeric ID.
- <li><a href="https://foller.me/">Foller</a></li>Twitter analytics shows followers, hashtags, topics, mentions, and other statistics for any public Twitter profile. *Currently Not Working*
  <li><a href="https://followerwonk.com/">Followerwonk</a></li>Twitter analytics tool used to find, analyze, and optimize for social growth and helps to explore and grow user's social graph.
- <li><a href="http://geosocialfootprint.com/">Geo Social Footprint</a></li>A geosocial footprint is the combined bits of location information that a user divulges through social media, which ultimately forms the users location "footprint". *Currently Not Working*
- <li><a href="https://hashatit.com/">Hash At It</a></li>Hashtag search engine. *Currently Not Returning Twiiter Hashtags*
  <li><a href="https://inteltechniques.com/tools/Twitter.html">Inteltechniques</a></li>Twitter aggregator search tool.
  <li><a href="https://intelx.io/tools?tab=twitter">Intelx</a></li>Analyse Twitter profiles and location search.
  <li><a href="https://github.com/travisbrown/memory.lol">MemoryLOL</a></li>It can currently be used to look up 542 million historical screen names for 443 million Twitter accounts. 
@@ -321,17 +318,23 @@ Please bear in mind that recent changes to Twitter, especially involving their A
  <li><a href="https://onemilliontweetmap.com/">One Million Tweet Map </a></li> A geographical clustering engine for online maps to display and analyse big geolocalized data. 
  <li><a href="https://osintcombine.com/social-geo-lens">Osint Conbine</a></li>This tool is designed to provide a map based interface for geo searching on social media platform.
  <li><a href="https://realtoptweeps.com/rankings/">Real Top Tweeps</a></li>Rankings of active Twitter accounts per language.
- <li><a href="https://socialbearing.com/">Social Bearing</a></li>Free Twitter analytics & search for tweets, timelines & twitter maps. *Currently Not Working*
- <li><a href="http://spoonbill.io/">Spoonbill</a></li>Spoonbill lets you see profile changes from the people you follow on Twitter or other social networks. *Currently Not Working*
  <li><a href="https://tinfoleak.com/">Tinfoleak</a></li>Search for Twitter users leaks.
- <li><a href="https://tweetbeaver.com/">Tweet Beaver</a></li>Analyse Twiiter accounts. *Currently Not Working*
- <li><a href="https://tweepdiff.com/">Tweep Diff</a></li>Compare Twitter friends and followers. *Currently Not Working*
  <li><a href="https://www.heavy.ai/demos/tweetmap">Tweet Map</a></li>Tweetmap allows you to search for geographic and temporal distribution of words used in Twitter messages worldwide.
- <li><a href="https://tweettunnel.com/reverse.php">Tweet Tunnel</a></li>Old Tweets - view someone's earlier tweets. *Currently Not Working*
- <li><a href="https://github.com/twintproject/twint">Twint</a></li>An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API. *Archived*
+ <li><a href="https://twiiit.com/">Twiiit</a></li>Nitter Instance.
  <li><a href="https://twitter.com/search-advanced">Twitter's Advanced Search</a></li>Twitter advanced search allows you to tailor search results to specific date ranges, people, phrases etc. 
- <li><a href="https://twopcharts.com/">Twopcharts</a></li>Twopcharts offers stats and data about how people have used their Twitter accounts. *Currently Not Working*
  <li><a href="https://waybacktweets.streamlit.app/">Wayback Tweets</a></li>Display multiple archived tweets on Wayback Machine and avoid opening each link manually.
+<br></br>
+ <p>Resources Not Working</p>
+  <li><a href="https://foller.me/">Foller</a></li>Twitter analytics shows followers, hashtags, topics, mentions, and other statistics for any public Twitter profile. *Currently Not Working*
+  <li><a href="http://geosocialfootprint.com/">Geo Social Footprint</a></li>A geosocial footprint is the combined bits of location information that a user divulges through social media, which ultimately forms the users location "footprint". *Currently Not Working*
+  <li><a href="https://hashatit.com/">Hash At It</a></li>Hashtag search engine. *Currently Not Returning Twiiter Hashtags*
+  <li><a href="https://socialbearing.com/">Social Bearing</a></li>Free Twitter analytics & search for tweets, timelines & twitter maps. *Currently Not Working*
+  <li><a href="http://spoonbill.io/">Spoonbill</a></li>Spoonbill lets you see profile changes from the people you follow on Twitter or other social networks. *Currently Not Working*
+  <li><a href="https://tweetbeaver.com/">Tweet Beaver</a></li>Analyse Twiiter accounts. *Currently Not Working*
+  <li><a href="https://tweepdiff.com/">Tweep Diff</a></li>Compare Twitter friends and followers. *Currently Not Working*
+  <li><a href="https://tweettunnel.com/reverse.php">Tweet Tunnel</a></li>Old Tweets - view someone's earlier tweets. *Currently Not Working*
+  <li><a href="https://github.com/twintproject/twint">Twint</a></li>An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API. *Archived*
+  <li><a href="https://twopcharts.com/">Twopcharts</a></li>Twopcharts offers stats and data about how people have used their Twitter accounts. *Currently Not Working*
 </ul>
 <br></br>
 <p>Search Queries</p>
