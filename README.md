@@ -324,7 +324,7 @@ Please bear in mind that recent changes to Twitter, especially involving their A
  <li><a href="https://twitter.com/search-advanced">Twitter's Advanced Search</a></li>Twitter advanced search allows you to tailor search results to specific date ranges, people, phrases etc. 
  <li><a href="https://waybacktweets.streamlit.app/">Wayback Tweets</a></li>Display multiple archived tweets on Wayback Machine and avoid opening each link manually.
 <br></br>
- <p>Resources Not Working</p>
+<p>Resources Not Working</p>
   <li><a href="https://foller.me/">Foller</a></li>Twitter analytics shows followers, hashtags, topics, mentions, and other statistics for any public Twitter profile. *Currently Not Working*
   <li><a href="http://geosocialfootprint.com/">Geo Social Footprint</a></li>A geosocial footprint is the combined bits of location information that a user divulges through social media, which ultimately forms the users location "footprint". *Currently Not Working*
   <li><a href="https://hashatit.com/">Hash At It</a></li>Hashtag search engine. *Currently Not Returning Twiiter Hashtags*
