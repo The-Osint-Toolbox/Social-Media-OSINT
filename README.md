@@ -323,6 +323,7 @@ Please bear in mind that recent changes to Twitter, especially involving their A
  <li><a href="https://www.heavy.ai/demos/tweetmap">Tweet Map</a></li>Tweetmap allows you to search for geographic and temporal distribution of words used in Twitter messages worldwide.
  <li><a href="https://twiiit.com/">Twiiit</a></li>Nitter Instance.
  <li><a href="https://twitter.com/search-advanced">Twitter's Advanced Search</a></li>Twitter advanced search allows you to tailor search results to specific date ranges, people, phrases etc. 
+ <li><a href="https://digitaldigging.org/twitter/?utm_source=substack&utm_medium=email">Twitter List search</a></li>Enter a keyword for public Twitter lists.
  <li><a href="https://waybacktweets.streamlit.app/">Wayback Tweets</a></li>Display multiple archived tweets on Wayback Machine and avoid opening each link manually.
 <br></br>
 <p>Resources Not Working</p>
