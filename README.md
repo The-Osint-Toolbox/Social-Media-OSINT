@@ -74,7 +74,8 @@
 </table>
 <p>Blogs</p>
 <ul>
-  <li><a href="https://osintcurio.us/category/social-media/discord/">TOCP Investigating Discord</a></li>@BOsintBlanc blog on how to investigate and research Discord (2021).
+  <li><a href="https://authentic8.com/blog/collecting-osint-discord-guide">Authentic8</a></li>Collecting OSINT on Discord. (2024)
+  <li><a href="https://osintcurio.us/category/social-media/discord/">TOCP Investigating Discord</a></li>@BOsintBlanc blog on how to investigate and research Discord. (2021).
 </ul>
 <p>Resources</p>
 <ul>
