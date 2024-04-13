@@ -60,7 +60,7 @@
 <ul>
   <li><a href="https://commentpicker.com/">Comment Picker</a></li>
    <p>Multi purpose tool for Facebook, Instagram, TikTok & Twitter.</p>
-  <li><a href="https://www.smat-app.com/">Smat</a></li>
+  <li><a href="https://openmeasures.io/">Smat</a></li>
    <p>Analyze hate and disinformation online.</p>
   <li><a href="https://socialmedialist.org/index.html">Social Media List</a></li>
    <p>A list of top 250 social media apps and networks worldwide.</p>
