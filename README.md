@@ -86,6 +86,7 @@
   <li><a href="https://goodfeeds.co/">GoodFeeds</a></li>
   <li><A href="https://wolfgang.raios.xyz/">Wolfgang</A></li>
 </ul>
+</div>
 <table>
   <div id="discord"></div>
   <tr>
