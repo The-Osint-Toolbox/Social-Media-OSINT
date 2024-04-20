@@ -17,6 +17,9 @@
   <tr>
     <td><a href="#miscellaneous">Miscellaneous</a></td>
   </tr>
+  <tr>
+    <td><a href="#bluesky">Bluesky</a></td>
+  </tr>
   <tr>
     <td><a href="#discord">Discord</a></td>
   </tr>
@@ -70,6 +73,19 @@
    <p>Curated lists of the top online social nedia communities to join.</p>
 </ul>
 </div>
+<br/>
+<table>
+  <div id="bluesky"></div>
+  <tr>
+    <td>BlueSky</td>
+  </tr>
+</table>
+<ul>
+  <li><a href="https://clearsky.app/">Clearsky</a></li>
+  <li><a href="https://deck.blue/">DeckBlue</a></li>
+  <li><a href="https://goodfeeds.co/">GoodFeeds</a></li>
+  <li><A href="https://wolfgang.raios.xyz/">Wolfgang</A></li>
+</ul>
 <table>
   <div id="discord"></div>
   <tr>
