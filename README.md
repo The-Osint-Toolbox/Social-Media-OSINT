@@ -17,6 +17,9 @@
   <tr>
     <td><a href="#miscellaneous">Miscellaneous</a></td>
   </tr>
+  <tr>
+    <td><a href="#smmanagement">SM Management</a></td>
+  </tr>
   <tr>
     <td><a href="#bluesky">Bluesky</a></td>
   </tr>
@@ -72,6 +75,18 @@
   <li><a href="https://thehiveindex.com/">The Hive Index</a></li>
    <p>Curated lists of the top online social nedia communities to join.</p>
 </ul>
+</div>
+<table>
+  <div id="smmanagement"></div>
+  <tr>
+    <td>SM Management</td>
+  </tr>
+</table>
+<ul>
+  <li><a href="https://gravatar.com/">Gravatar</a></li>en.gravatar.com/USERNAME
+  <li><a href="https://keybase.io/">Keybase</a></li>keybase.io/USERNAME
+  <li><a href="https://linktr.ee/">Linktree</a></li>linktr.ee/USERNAME
+ </ul>
 </div>
 <br/>
 <table>
