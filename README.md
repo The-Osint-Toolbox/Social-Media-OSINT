@@ -192,7 +192,8 @@
   <li><a href="https://inteltechniques.com/tools/Instagram.html">Inteltechniques</a></li>Inteltechniques Instagram search tool.
   <li><a href="https://izuum.net/">iZuum</a></li>Instagram profile downloader.
   <li><a href="https://www.modash.io/fake-follower-check?influencer=%40therock">Modash</a></li>Analyze Instagram influencers: follower count, engagement rate, fake followers, popular content.
-  <li><a href="https://osintcombine.com/instagram-explorer">Osint Combinne</a></li>Find images by date on Instagram at particular locations easier and more efficient.
+  <li><a href="https://app.notjustanalytics.com/">Not Just Analytics</a></li>Analysis of Instagram profiles for advertising and marketing services.
+  <li><a href="https://osintcombine.com/instagram-explorer">Osint Combinne</a></li>Find images by date on Instagram at particular locations easier and more efficient.
   <li><a href="https://picnob.com/">Picnob</a></li>Enables you to browse Instagram profiles without the need of an account.
   <li><a href="https://picuki.com/"> Picuki</a></li>Instgram Editor & Viewer.
   <li><a href="https://www.storysaver.net/">Story Saver</a></li>Download Instagram stories, highlights and videos.
