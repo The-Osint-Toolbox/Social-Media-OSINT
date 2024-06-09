@@ -108,11 +108,6 @@
     <td>Discord</td>
   </tr>
 </table>
-<p>Blogs</p>
-<ul>
-  <li><a href="https://authentic8.com/blog/collecting-osint-discord-guide">Authentic8</a></li>Collecting OSINT on Discord. (2024)
-  <li><a href="https://osintcurio.us/category/social-media/discord/">TOCP Investigating Discord</a></li>@BOsintBlanc blog on how to investigate and research Discord. (2021)
-</ul>
 <p>Resources</p>
 <ul>
   <li><a href="https://disboard.org/">Disboard, Discord Servers</a></li>
@@ -135,15 +130,6 @@
     <td>Facebook</td>
   </tr>
 </table>
-<p>Blogs</p>
-<ul>
-  <li><a href="https://asharbinkhalil.medium.com/osint-tip-search-private-facebook-profiles-for-valuable-information-43b5b2fe4c62">Ashar Khalil</a></li>Search private Facebook profiles for valuable information. (2023)
-  <li><a href="https://osintteam.blog/facebook-group-members-scraper-obtain-group-member-infos-via-typescir-315e7183ca5b">CyberRaya</a></li>Obtain group member infos via TypeScript. (2023)
-  <li><a href="https://gijn.org/2023/06/26/social-search-techniques-using-facebook-henk-van-ess/">Henk van Hess</a></li>Social search techniques using Facebook. (2023)
-  <li><a href="https://www.lifewire.com/recover-facebook-password-without-email-and-phone-number-4582257">Lifewire</a></li>How to check if a email or telephone number is linked to a Facebook account (2023).
-</ul>
-<ul>
-</ul>
 <p>Resources</p>
 <ul>
   <li><a href="https://www.codeofaninja.com/tools/find-facebook-id/">Codeofaninja</a></li>This tool called "Get Facebook ID" provides an easy and fast way to find a Facebook page's or Facebook profile's numeric ID.
@@ -171,13 +157,6 @@
   </tr>
 </table>
 <p>Blogs</p>
-<ul>
-  <li><a href="https://www.aware-online.com/en/view-instagram-profiles-without-logging-in/">Aware-Online</a></li>View Instagram Profile without logging in. (2021)
-  <li><a href="https://nixintel.info/osint/how-to-find-timestamps-for-verification/">Nixintel How to find timestamps</a></li>Nixintel's blog on how to find timestamps for verification (2022).
-  <li><a href="https://nixintel.info/osint-tools/instagram-osint-a-promising-new-python-tool/">Nixintel Instagram Osint</a></li>Nixintel's tutorial on how to install InstaScraper.
-  <li><a href="https://osintcurio.us/2019/07/16/searching-instagram/">TOCP How to search Instagram part 1</a></li>Technisette talks through how to search Instagram, for people, stories, keywords, hashtags, locations (2019).
-  <li><a href="https://osintcurio.us/2019/10/01/searching-instagram-part-2/">TOCP How to search Instagram part 2</a></li>Technisette continues her tutorial searching Instagram, for businessess, deleted content  and tracking followers (2019).
-</ul>
 <p>Resources</p>
 <ul>
   <li><a href="https://codeofaninja.com/tools/find-instagram-user-id/">Codeofaninja</a></li>Easy way for developers and designers to get Instagram account numeric ID by username.
@@ -218,11 +197,6 @@
     <td>Linkedin</td>
   </tr>
 </table>
-<p>Blogs</p>
-<ul>
-  <li><a href="https://www.cqcore.uk/are-you-linked-in/">Are You Linked in?</a></li>Blog by Ginger T & Ritu Gill on how to search linked without being locked in (2021).
-  <li><a href="https://gijn.org/2023/06/27/social-search-techniques-guide-using-linkedin-henk-van-ess/">Henk van Ess</a></li>Social search techniques using Linkedin (2023).
-</ul>
 <p>Resources</p>
 <ul>
   <li><a href="https://freepeoplesearchtool.com/">Free Person Search Tool</a></li>Find people easily on Linkedin.
@@ -239,11 +213,6 @@
     <td>Mastadon</td>
   </tr>
 </table>
-<p>Blogs</p> 
-<ul>
-  <li><a href="https://medium.com/@TheInvestigatorBlog/what-you-didnt-know-about-mastodon-investigations-f380b5303fc8">The Investigator Blog</a></li>What you didn't know about Mastaodon Investigations (2023).
-  <li><a href="https://www.secjuice.com/mastodon-osint-a-comprehensive-introduction/">Secjuice</a></li>Part one in our series on Mastodon, focused on gathering OSINT from the platform's users, instances and network (2022).
-</ul>
 <p>Resources</p>
 <ul>
   <li><a href="https://seintpl.github.io/imagstodon/">Imagstodon</a></li>Enter nickname to search for profile images on 100+ Mastodon instances.
@@ -272,13 +241,6 @@
     <td>Snapchat</td>
   </tr>
 </table>
-<p>Blogs</p>
-<ul>
-  <li><a href="https://hatless1der.com/a-snapchat-osint-tip-viewing-bitmoji-changes/">Hatlessider</a></li>Viewing Bitmoji changes.(2022)
-  <li><a href="https://www.lifewire.com/snapchat-emoji-meanings-3485999">Lifewire</a></li>The Quick Guide to Snapchat Emoji Meanings.
-  <li><a href="https://osintcurio.us/2020/04/13/using-snapchat-for-osint-10-minute-tip/">TOCP</a></li>How to use Snapmap and download videos.
-  <li><a href="https://webbreacher.com/2022/10/24/grabbing-old-bitmoji-outfits-with-BACKMOJI/">WebBreacher</a></li>How to use Backmoji.(2022)
-</ul>
 <p>Resources</p>
 <ul>
   <li><a href="https://backmoji.myosint.training/">Backmoji</a></li>The Bitmoji avatar history enumerator.
@@ -292,10 +254,6 @@
 current location and view Snaps from nearby-Snapchat users or users.
   <li><a href="https://github.com/king-millez/snapmap-archiver">SnapMap Archiver</a></li>Download all SnapMap content from a specific location.
 </ul>
-  <p>Videos</p>
-<ul>
-  <li><a href="https://youtube.com/watch?v=17yiLinMPpk">TOCP</a></li>TOCP 10 Minute Tip, How to download Snapchat videos.
-</ul>
 </div>
 <table>
   <div id="tiktok"></div>
@@ -303,15 +261,6 @@ current location and view Snaps from nearby-Snapchat users or users.
     <td>TikTok</td>
   </tr>
 </table>
-<p>Blogs</p>
-<ul>
-  <li><a href="https://www.bellingcat.com/resources/2020/05/25/investigate-tiktok-like-a-pro/">Bellingcat</a></li>Investigate TikTok Like A Pro! (2022).
-  <li><a href="https://medium.com/@BTF117/tiktok-osint-targeted-user-investigation-9e206f8bb794">BTF_117</a></li>OSINT Investigations on TikTok Part 1 (2020).
-  <li><a href="https://medium.com/@BTF117/tiktok-osint-targeted-user-investigation-4f8a3ac0ecdc">BTF_117</a></li>OSINT Investigations on TikTok Part 2 (2020).
-  <li><a href="https://sector035.nl/search?q=tiktok">Sector035</a></li>A Week In OSINT TikTok entries. 
-  <li><a href="https://medium.com/@BTF117/tiktok-osint-targeted-user-investigation-part-3-3-scripts-bf0297b6475f">BTF_117</a></li>OSINT Investigations on TikTok Part 3 (2020).
-  <li><a href="https://www.secjuice.com/osint-investigations-on-tiktok/">Sinwindle</a></li>TikTok Targeted OSINT Investigations (2019).
-</ul>
 <p>Resources</p>
 <ul>
   <li><a href="https://bellingcat.github.io/tiktok-timestamp/">Bellingcat</a></li>Obtain the timestamp of a TikTok video.
@@ -339,13 +288,6 @@ current location and view Snaps from nearby-Snapchat users or users.
   <td>Twitter Now Known as X</td>
   </tr>
 </table>
-<p>Blogs</p>
-<ul>
-  <li><a href="https://hatless1der.com/osint-quick-tips-2-simple-methods-of-getting-around-twitters-annoying-login-wall/">Hatless1der</a></li>Simple methods of getting around Twitter’s annoying login wall (2023).
-  <li><a href="https://gijn.org/2023/06/28/social-search-techniques-using-twitter-henk-van-ess/">Henk van Ess</a></li>Social search techniques using Twitter (2023).
-  <li><a href="https://nixintel.info/osint/how-to-find-timestamps-for-verification/">Nixintel How to find timestamps</a></li>Nixintel blog on how to find timestamps for verification (2022).
-  <li><a href="https://gralhix.com/2023/05/31/the-hidden-potential-of-public-twitter-lists/">Sofia Santos</a></li>The Hidden Potential of Public Twitter Lists.
-</ul>
 <p>Resources</p>
 The resources listed below all do very similar things but you can gleam different kinds of information about a Twtiier account, so it always worth checking them all out. Some sites may need you to sign in to your own account to work.
 <br><br/>
