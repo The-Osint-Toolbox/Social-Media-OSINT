@@ -157,7 +157,6 @@
     <td>Instagram</td>
   </tr>
 </table>
-<p>Blogs</p>
 <p>Resources</p>
 <ul>
   <li><a href="https://codeofaninja.com/tools/find-instagram-user-id/">Codeofaninja</a></li>Easy way for developers and designers to get Instagram account numeric ID by username.
@@ -311,7 +310,8 @@ Please bear in mind that recent changes to Twitter, especially involving their A
  <li><a href="https://makeadverbsgreatagain.org/allegedly/">Allegedly </a></li>Checks a Twitter accounts activity against their posted timezone.
  <li><a href="https://github.com/travisbrown/memory.lol">MemoryLOL</a></li>It can currently be used to look up 542 million historical screen names for 443 million Twitter accounts. 
  <li><a href="https://nitter.net/">Nitter</a></li>Nitter is a free and open source alternative viewer for Twitter/X.
- <li><a href="https://onemilliontweetmap.com/">One Million Tweet Map </a></li> A geographical clustering engine for online maps to display and analyse big geolocalized data. 
+ <li><a href="https://github.com/dimdenGD/OldTweetDeck">Old TweetDeck</a></li>Returns old TweetDeck, for free!
+ <li><a href="https://onemilliontweetmap.com/">One Million Tweet Map </a></li> A geographical clustering engine for online maps to display and analyse big geolocalized data. 
  <li><a href="https://osintcombine.com/social-geo-lens">Osint Conbine</a></li>This tool is designed to provide a map based interface for geo searching on social media platform.
  <li><a href="https://realtoptweeps.com/rankings/">Real Top Tweeps</a></li>Rankings of active Twitter accounts per language.
  <li><a href="https://socialbearing.com/">Social Bearing</a></li>Free Twitter analytics & search for tweets, timelines & twitter maps.*Currently Not Working*
