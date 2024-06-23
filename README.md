@@ -1,6 +1,6 @@
 # Social-Media-OSINT
 <p align="center">
-  <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
+ <img width="250" height="175" src="https://www.cqcore.uk/wp-content/uploads/2024/06/Screenshot-2024-06-13-122030.png">
 </p>
 <br></br>
 <p>The distinction between traditional social media and messenger apps is probably not as defined as it once was, "Social media are interactive technologies that facilitate the creation and sharing of information, ideas, interests, and other forms of expression through virtual communities and networks." As a result on this page you will find some platforms that you may not think as Social Media. There are links to useful, tools, technqiues & tradecraft.</p>
@@ -121,6 +121,7 @@
   <li><a href="https://discord.id/">Discord ID Lookup</a></li>
   <li><a href="https://discordservers.com/">Discord Servers</a></li>
   <li><a href="https://discord.me/servers">Public Discord Bots & Servers</a></li>
+  <li><a href="https://spy.pm/">Spy.Pm Explore Discord's data with over 300 million users.</a></li>
   <li><a href="https://top.gg/">Top.gg, Discord Bots & Servers</a></li>
 </ul>
 </div>
