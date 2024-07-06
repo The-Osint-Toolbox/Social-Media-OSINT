@@ -309,6 +309,7 @@ Please bear in mind that recent changes to Twitter, especially involving their A
  <li><a href="https://hashatit.com/">Hash At It</a></li>Hashtag search engine. *Currently Not Returning Twiiter Hashtags*
  <li><a href="https://inteltechniques.com/tools/Twitter.html">Inteltechniques</a></li>Twitter aggregator search tool.
  <li><a href="https://intelx.io/tools?tab=twitter">Intelx</a></li>Analyse Twitter profiles and location search.
+ <li><a href="https://twitter.lolarchiver.com/main">Lolarchiver</a></li>Retrieve historical username & bio history.
  <li><a href="https://github.com/travisbrown/memory.lol">MemoryLOL</a></li>It can currently be used to look up 542 million historical screen names for 443 million Twitter accounts. 
  <li><a href="https://nitter.net/">Nitter</a></li>Nitter is a free and open source alternative viewer for Twitter/X.
  <li><a href="https://github.com/dimdenGD/OldTweetDeck">Old TweetDeck</a></li>Returns old TweetDeck, for free!
