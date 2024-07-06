@@ -296,6 +296,7 @@ The resources listed below all do very similar things but you can gleam differen
 Please bear in mind that recent changes to Twitter, especially involving their API (March 2023). may have an adverse affect on some resources until the owners have had chance to adapt. It is more likley now that you may have to log into your own / sock Twitter account to be able to use some of the below resources. 
 <br><br/>
 <ul>
+ <li><a href="https://makeadverbsgreatagain.org/allegedly/">Allegedly </a></li>Checks a Twitter accounts activity against their posted timezone.
  <li><a href="https://liwc.net/analyzewords/index.php">Analyze Words</a></li>AnalyzeWords helps you to understand the personality of a Twitter user by looking at how they use words.
  <li><a href="http://aware-online.com/en/osint-tools/twitter-search-tool/">Aware-Online</a></li>Advanced search queries tool, allow you to analyze and monitor an account on Twitter.
  <li><a href="https://birdhunt.co/">Birdhunt</a></li>BirdHunt uses Twitters GeoCoded tweet search to find tweets by location.
@@ -308,7 +309,6 @@ Please bear in mind that recent changes to Twitter, especially involving their A
  <li><a href="https://hashatit.com/">Hash At It</a></li>Hashtag search engine. *Currently Not Returning Twiiter Hashtags*
  <li><a href="https://inteltechniques.com/tools/Twitter.html">Inteltechniques</a></li>Twitter aggregator search tool.
  <li><a href="https://intelx.io/tools?tab=twitter">Intelx</a></li>Analyse Twitter profiles and location search.
- <li><a href="https://makeadverbsgreatagain.org/allegedly/">Allegedly </a></li>Checks a Twitter accounts activity against their posted timezone.
  <li><a href="https://github.com/travisbrown/memory.lol">MemoryLOL</a></li>It can currently be used to look up 542 million historical screen names for 443 million Twitter accounts. 
  <li><a href="https://nitter.net/">Nitter</a></li>Nitter is a free and open source alternative viewer for Twitter/X.
  <li><a href="https://github.com/dimdenGD/OldTweetDeck">Old TweetDeck</a></li>Returns old TweetDeck, for free!
