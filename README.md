@@ -303,6 +303,7 @@ Please bear in mind that recent changes to Twitter, especially involving their A
  <li><a href="https://botometer.osome.iu.edu/">Botometre</a></li>Botometer checks the activity of a Twitter account and gives it a score. Higher scores mean more bot-like activity.
  <li><a href="https://github.com/claromes/waybacktweets">Claromes</a></li>Find archived tweets on Wayback Machine in an easy way.
  <li><a href="https://codeofaninja.com/tools/find-twitter-id/">Codeofaninja</a></li>Easy way for you to get a Twitter profile's numeric ID.
+ <li><a href="https://cache.digitaldigging.org/">Deleted Tweet Finder</a></li>Search for deleted tweets across multiple archival services.
  <li><a href="https://foller.me/">Foller</a></li>Twitter analytics shows followers, hashtags, topics, mentions, and other statistics for any public Twitter profile. *Currently Not Working*
  <li><a href="https://followerwonk.com/">Followerwonk</a></li>Twitter analytics tool used to find, analyze, and optimize for social growth and helps to explore and grow user's social graph.
  <li><a href="http://geosocialfootprint.com/">Geo Social Footprint</a></li>A geosocial footprint is the combined bits of location information that a user divulges through social media, which ultimately forms the users location "footprint". *Currently Not Working*
