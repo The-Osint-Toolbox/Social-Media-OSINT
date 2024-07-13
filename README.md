@@ -44,7 +44,10 @@
   <tr>
     <td><a href="#reddit">Reddit</a></td>
   </tr>
-  <tr>
+  <tr>
+    <td><a href="#skype">Skype</a></td>
+  </tr>
+ <tr>
     <td><a href="#snapchat">Snapchat</a></td>
   </tr>
   <tr>
@@ -240,9 +243,20 @@
   </ul>
 </div>
 <table>
-  <div id="snapchat"></div>
+ <div id="skype"></div>
   <tr>
-    <td>Snapchat</td>
+    <td>Skype</td>
+  </tr>
+</table>
+<p>Resources</p>
+ <ul>
+  <li><a href="http://www.skypeipresolver.net/index.php">Skype IP Resolver</a></li>Resolve any Skype IP username and get their latest IP address.
+ </ul>
+</div>
+ <table>
+  <div id="snapchat"></div>
+  <tr>
+    <td>Snapchat</td>
   </tr>
 </table>
 <p>Resources</p>
