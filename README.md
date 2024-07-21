@@ -71,6 +71,10 @@
    <p>Extract the profile ID of any Facebook, Instagram, Twitter (X), or TikTok profile in one click.</p>
   <li><a href="https://commentpicker.com/">Comment Picker</a></li>
    <p>Multi purpose tool for Facebook, Instagram, TikTok & Twitter.</p>
+  <li><a href="https://exportcomments.com/">Export Comments</a></li>
+   <p>Easily exports all comments from your social media posts to Excel file.</p>
+  <li><a href="https://www.huntintel.io/">HuntIntel</a></li>
+   <p>Find social media posts surrounding a location</p>
   <li><a href="https://openmeasures.io/">Open Measures</a></li>
    <p>Analyze hate and disinformation online.</p>
   <li><a href="https://socialmedialist.org/index.html">Social Media List</a></li>
