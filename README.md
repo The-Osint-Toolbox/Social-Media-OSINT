@@ -133,6 +133,7 @@
   <li><a href="https://discord.id/">Discord ID Lookup</a></li>
   <li><a href="https://discordservers.com/">Discord Servers</a></li>
   <li><a href="https://discordstatus.com/">Discord Status Checker</a></li>
+  <li><a href="https://dsc.gg/">Dsc - Explore over 200k existing dsc.gg links, or create your own.</a></li>
   <li><a href="https://discord.me/servers">Public Discord Bots & Servers</a></li>
   <li><a href="https://spy.pm/">Spy.Pm Explore Discord's data with over 300 million users.</a></li>
   <li><a href="https://top.gg/">Top.gg, Discord Bots & Servers</a></li>
