@@ -123,6 +123,7 @@
   <li><a href="https://discadia.com/">Discadia, Discord Servers</a></li>
   <li><a href="https://discordbee.com/">Discord Bee</a></li>
   <li><a href="https://discordbotlist.com/">Discord Bot List</a></li>
+  <li><a href="https://discord.bots.gg/">Discord Bots</a></li>
   <li><a href="https://discord.center/">Discord Centre</a></li>
   <li><a href="https://discord.com/invite/0cDvIgU2voWn4BaD">Discord.com, Discord Bots</a></li>
   <li><a href="https://discord.com/servers">Discord.com Server Search</a></li>
