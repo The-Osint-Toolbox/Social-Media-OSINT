@@ -132,6 +132,7 @@
   <li><a href="https://hugo.moe/discord/discord-id-creation-date.html">Discord ID Creation Date Checker</a></li>
   <li><a href="https://discord.id/">Discord ID Lookup</a></li>
   <li><a href="https://discordservers.com/">Discord Servers</a></li>
+  <li><a href="https://discordstatus.com/">Discord Status Checker</a></li>
   <li><a href="https://discord.me/servers">Public Discord Bots & Servers</a></li>
   <li><a href="https://spy.pm/">Spy.Pm Explore Discord's data with over 300 million users.</a></li>
   <li><a href="https://top.gg/">Top.gg, Discord Bots & Servers</a></li>
