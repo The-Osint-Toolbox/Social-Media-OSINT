@@ -124,6 +124,7 @@
   <li><a href="https://discordbotlist.com/">Discord Bot List</a></li>
   <li><a href="https://discord.center/">Discord Centre</a></li>
   <li><a href="https://discord.com/invite/0cDvIgU2voWn4BaD">Discord.com, Discord Bots</a></li>
+  <li><a href="https://discord.com/servers">Discord.com Server Search</a></li>
   <li><a href="https://dht.chylex.com/">Discord History Tracker</a></li>
   <li><a href="https://discordhub.com/user/search">Discord Hub</a></li>
   <li><a href="https://hugo.moe/discord/discord-id-creation-date.html">Discord ID Creation Date Checker</a></li>
