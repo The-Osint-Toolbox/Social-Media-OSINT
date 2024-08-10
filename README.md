@@ -120,7 +120,7 @@
 <p>Resources</p>
 <ul>
   <li><a href="https://disboard.org/">Disboard, Discord Servers</a></li>
-  <li><a href="https://discadia.com/">Discadia Discord Servers</a></li>
+  <li><a href="https://discadia.com/">Discadia, Discord Servers</a></li>
   <li><a href="https://discordbee.com/">Discord Bee</a></li>
   <li><a href="https://discordbotlist.com/">Discord Bot List</a></li>
   <li><a href="https://discord.center/">Discord Centre</a></li>
