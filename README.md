@@ -334,6 +334,7 @@ Please bear in mind that recent changes to Twitter, especially involving their A
  <li><a href="https://followerwonk.com/">Followerwonk</a></li>Twitter analytics tool used to find, analyze, and optimize for social growth and helps to explore and grow user's social graph.
  <li><a href="http://geosocialfootprint.com/">Geo Social Footprint</a></li>A geosocial footprint is the combined bits of location information that a user divulges through social media, which ultimately forms the users location "footprint". *Currently Not Working*
  <li><a href="https://hashatit.com/">Hash At It</a></li>Hashtag search engine. *Currently Not Returning Twiiter Hashtags*
+ <li><a href="https://instalker.org/">Instalker</a></li>Tracks Twitter trends, finds the most popular Twitter users, hashtags and places.
  <li><a href="https://inteltechniques.com/tools/Twitter.html">Inteltechniques</a></li>Twitter aggregator search tool.
  <li><a href="https://intelx.io/tools?tab=twitter">Intelx</a></li>Analyse Twitter profiles and location search.
  <li><a href="https://twitter.lolarchiver.com/main">Lolarchiver</a></li>Retrieve historical username & bio history.
