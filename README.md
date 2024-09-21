@@ -415,6 +415,7 @@ Please bear in mind that recent changes to Twitter, especially involving their A
 </table>
 <ul>
   <li><a href="https://sessioncommunities.online/">Session Community List</a></li>
+  <li><a href="https://session.directory/">Session Directory</a></li>
   <li><a href="http://sog.caliban.org/">Signal Communities</a></li>
 </ul>
 </div>
