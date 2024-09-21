@@ -398,6 +398,8 @@ Please bear in mind that recent changes to Twitter, especially involving their A
    <p>Find a UK WhatsApp group link.</p>
   <li><a href="https://en.groupio.app/">Groupio</a></li>
    <p>Find and search WhatsApp groups.</p>
+  <li><a href="https://www.tricksfly.net/whatsapp-group-link/">TricksFly</a></li>
+   <p>WhatsApp Group Links</p>
   <li><a href="https://whatgroup.link/">WhatGroup Links</a></li>
    <p>Best WhatsApp group links</p>
   <li><a href="https://www.whtsgrouplinks.com/">Whts Group Links</a></li>
@@ -417,6 +419,9 @@ Please bear in mind that recent changes to Twitter, especially involving their A
   <li><a href="https://sessioncommunities.online/">Session Community List</a></li>
   <li><a href="https://session.directory/">Session Directory</a></li>
   <li><a href="http://sog.caliban.org/">Signal Communities</a></li>
+  <li><a href="https://signalgroupslinks.com/">Signal Group Links</a></li>
+  <li><a href="https://www.socialgrouplink.com/">Social Group Links</a></li>
+  <li><a href="https://theeversite.com/signal-group-links/">The Eversite</a></li>
 </ul>
 </div>
 
