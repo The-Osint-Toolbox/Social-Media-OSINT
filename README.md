@@ -59,7 +59,9 @@
   <tr>
     <td><a href="#whatsapp">WhatsApp</a></td>
   </tr>
-</table>
+  <tr>
+   <td><a href="#messengerapps">Messenger Apps</a></td>
+  </tr>
 <table>
   <div id="miscellaneous"></div>
   <tr>
@@ -404,6 +406,16 @@ Please bear in mind that recent changes to Twitter, especially involving their A
    <p>Latest WhatsApp group links.</p>
   <li><a href="https://whatsgroupslink.com/">Whats Group Links</a></li>
    <p>Latest Whatsapp group links</p>
+</ul>
+ <table>
+  <div id="messengerapps"></div>
+  <tr>
+    <td>Messenger Apps</td>
+  </tr>
+</table>
+<ul>
+  <li><a href="https://sessioncommunities.online/">Session Community List</a></li>
+  <li><a href="http://sog.caliban.org/">Signal Communities</a></li>
 </ul>
 </div>
 
