@@ -386,6 +386,8 @@ Please bear in mind that recent changes to Twitter, especially involving their A
   </tr>
 </table>
 <ul>
+   <li><a href="https://2chat.co/tools/whatsapp-checker">2Chat</a></li>
+   <p>Free WhatsApp number check.</p>
   <li><a href="https://appgrouplink.com/">App Group Link</a></li>
    <p>Latest active WhatsApp group links.</p>
   <li><a href="https://whatsapp.checkleaked.cc/4407941314031">Check-Leaked</a></li>
