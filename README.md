@@ -410,6 +410,8 @@ Please bear in mind that recent changes to Twitter, especially involving their A
    <p>Latest WhatsApp group links.</p>
   <li><a href="https://whatsgroupslink.com/">Whats Group Links</a></li>
    <p>Latest Whatsapp group links</p>
+  <li><a href="https://watools.io/">WA Watcher</a></li>
+   <p>Track whatsapp activity.</p>
 </ul>
  <table>
   <div id="messengerapps"></div>
