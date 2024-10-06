@@ -234,6 +234,7 @@
 </table>
 <p>Resources</p>
 <ul>
+  <li><a href="https://mastodon-link-debugger.vercel.app/">Debugger</a>Mastodon link debugger.</li>
   <li><a href="https://seintpl.github.io/imagstodon/">Imagstodon</a></li>Enter nickname to search for profile images on 100+ Mastodon instances.
   <li><a href="https://github.com/C3n7ral051nt4g3ncy/Masto">Masto</a></li>Masto is an OSINT tool written in python to gather intelligence on Mastodon users and instances.
   <li><A href="https://mastovue.glitch.me/#/">MastoVue</A></li>Peek into the public Mastodon timeline or search for hashtags. 
