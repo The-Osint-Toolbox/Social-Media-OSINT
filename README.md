@@ -300,6 +300,7 @@ current location and view Snaps from nearby-Snapchat users or users.
   <li><a href="https://github.com/drawrowfly/tiktok-scraper">Drawrowfly</a></li>TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata.
   <li><a href="https://mavekite.com/">Analyse TikTok </a></li>A web application made for people who want to calculate tiktok engagement rate and analyse tiktok profile, video, song, or hashtag.
   <li><a href="https://www.osintcombine.com/tiktok-quick-search">OSINT Combine</a></li>This tool is designed to provide a quick method to search usernames and hashtags on TikTok via a browser.
+  <li><a href="https://github.com/dfreelon/pyktok?">Pyktok</a></li>A simple module to collect video, text, and metadata from Tiktok.
   <li><a href="https://snaptik.app/">SnapTik</a></li>TikTok video downloader without the watermark.
   <li><a href="https://github.com/sinwindie/OSINT/tree/master/TikTok">Sinwindle</a></li>Sinwindle's gitHub TikTok tools. 
   <li><a href="https://tiker.cc/en">Tiker</a></li>Download any TikTok user's video anonymously, without registration and watermark.
