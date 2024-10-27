@@ -71,8 +71,6 @@
 <ul>
   <li><a href="https://add-me-contacts.com/">Add-Me</a></li>
     <p>Add Me Contacts is an online directory of user contacts.</p>
-  <li><a href="https://github.com/The-OSINT-Newsletter/bouncer">Bouncer</a></li>
-   <p>Extract the profile ID of any Facebook, Instagram, Twitter (X), or TikTok profile in one click.</p>
   <li><a href="https://commentpicker.com/">Comment Picker</a></li>
    <p>Multi purpose tool for Facebook, Instagram, TikTok & Twitter.</p>
   <li><a href="https://exportcomments.com/">Export Comments</a></li>
