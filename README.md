@@ -110,6 +110,7 @@
   <li><a href="https://clearsky.app/">Clearsky</a></li>
   <li><a href="https://deck.blue/">DeckBlue</a></li>
   <li><a href="https://goodfeeds.co/">GoodFeeds</a></li>
+  <li><a href="https://hoaxy.osome.iu.edu/">Hoaxy</a></li>
   <li><A href="https://wolfgang.raios.xyz/">Wolfgang</A></li>
 </ul>
 </div>
