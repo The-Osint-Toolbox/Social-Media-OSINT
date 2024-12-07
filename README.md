@@ -107,6 +107,7 @@
   </tr>
 </table>
 <ul>
+  <li><a href="https://blueskydirectory.com/starter-packs/all">Bluesky Directory</a></li>
   <li><a href="https://clearsky.app/">Clearsky</a></li>
   <li><a href="https://deck.blue/">DeckBlue</a></li>
   <li><a href="https://goodfeeds.co/">GoodFeeds</a></li>
