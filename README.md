@@ -113,6 +113,7 @@
   <li><a href="https://deck.blue/">DeckBlue</a></li>
   <li><a href="https://goodfeeds.co/">GoodFeeds</a></li>
   <li><a href="https://hoaxy.osome.iu.edu/">Hoaxy</a></li>
+  <li><a href="https://internect.info/">Internect Info</a></li>
   <li><A href="https://wolfgang.raios.xyz/">Wolfgang</A></li>
 </ul>
 </div>
