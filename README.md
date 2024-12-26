@@ -227,7 +227,7 @@
   <li><a href="https://cse.google.com/cse?cx=006639709984028990467:nl9wxsfepb0#gsc.tab=0">Custom Search Engine</a></li>UK Linkedin Search (1).
   <li><a href="https://cse.google.co.nz/cse?cx=014394093098352383268:w7sqo_x4rb0">Custom Search Engine</a></li>UK Linkedin Search (2).
   <li><a href="https://cse.google.com/cse?cx=000470283453218169915%3Ahcrzdwsiwrc#gsc.tab=0">Custom Search Engine</a></li>UK Linkedin Search (3).
-  <li><a href="https://github.com/DoingFedTime/LinkedInAuto-ConnectBot">DoFedTime</a></li>LinkedInAuto Connect.
+  <li><a href="https://github.com/DoingFedTime/LinkedInAuto-ConnectBot">DoingFedTime</a></li>LinkedInAuto Connect.
   <li><a href="https://freepeoplesearchtool.com/">Free Person Search Tool</a></li>Find people easily on Linkedin.
   <li><a href="https://inteltechniques.com/tools/Linkedin.html">Inteltechniques</a></li>LinkedIn Search Tool.
   <li><a href="https://app.podify.io/linkedin-video-downloader">Podify</a></li>Video Downloader.
