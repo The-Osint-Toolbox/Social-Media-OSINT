@@ -95,10 +95,12 @@
     <td>SM Management</td>
   </tr>
 </table>
-<ul>
-  <li><a href="https://gravatar.com/">Gravatar</a></li>en.gravatar.com/USERNAME
-  <li><a href="https://keybase.io/">Keybase</a></li>keybase.io/USERNAME
-  <li><a href="https://linktr.ee/">Linktree</a></li>linktr.ee/USERNAME
+ <ul>
+   <li><a href="https://gravatar.com/">Gravatar</a></li>en.gravatar.com/USERNAME or site: & KEYWORD 
+  <li><a href="https://keybase.io/">Keybase</a></li>keybase.io/USERNAME or site: & KEYWORD 
+  <li><a href="https://later.com/link-in-bio/">Linkin Bio</a></li>linkin.bio/USERNAME or site: & KEYWORD 
+  <li><a href="https://linktr.ee/">Linktree</a></li>linktr.ee/USERNAME or site: & KEYWORD 
+  <li><a href="https://www.stan.store/">Stan</a></li>stan.store/USERNAME or site: & KEYWORD 
  </ul>
 </div>
 <br/>
