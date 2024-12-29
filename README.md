@@ -100,6 +100,7 @@
   <li><a href="https://keybase.io/">Keybase</a></li>keybase.io/USERNAME or site: & KEYWORD 
   <li><a href="https://later.com/link-in-bio/">Linkin Bio</a></li>linkin.bio/USERNAME or site: & KEYWORD 
   <li><a href="https://linktr.ee/">Linktree</a></li>linktr.ee/USERNAME or site: & KEYWORD 
+  <li><a href="https://dash.shor.by/login">Shorby</a></li>shor.by/USERNAME or site: & KEYWORD
   <li><a href="https://www.stan.store/">Stan</a></li>stan.store/USERNAME or site: & KEYWORD 
  </ul>
 </div>
