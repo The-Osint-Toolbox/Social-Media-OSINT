@@ -238,6 +238,7 @@
   <li><a href="https://freepeoplesearchtool.com/">Free Person Search Tool</a></li>Find people easily on Linkedin.
   <li><a href="https://inteltechniques.com/tools/Linkedin.html">Inteltechniques</a></li>LinkedIn Search Tool.
   <li><a href="https://app.podify.io/linkedin-video-downloader">Podify</a></li>Video Downloader.
+  <li><a href="https://nubela.co/proxycurl/demo/linkedin-profile-viewer">Proxycurl</a></li>Free LinkedIn Profile Viewer Tool.
   <li><a href="https://recruitmentgeek.com/tools/linkedin/?sthash.Ls1u5yzO.mjjo#gsc.tab=0">Recruitment Geek</a></li>LinkedIn Xray Search.
   <li><a href="https://videodownloader.taplio.com/">Taplio</a></li>Video Downloader.
 </ul>
