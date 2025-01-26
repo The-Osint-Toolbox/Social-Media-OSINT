@@ -62,6 +62,9 @@
   <tr>
    <td><a href="#messengerapps">Messenger Apps</a></td>
   </tr>
+   <tr>
+    <td><a href="#datingapps">Dating Apps</a></td>
+  </tr>
 <table>
   <div id="miscellaneous"></div>
   <tr>
@@ -447,6 +450,17 @@ Please bear in mind that recent changes to Twitter, especially involving their A
   <li><a href="https://signalgroupslinks.com/">Signal Group Links</a></li>
   <li><a href="https://www.socialgrouplink.com/">Social Group Links</a></li>
   <li><a href="https://theeversite.com/signal-group-links/">The Eversite</a></li>
+</ul>
+<br></br>
+<table>
+  <div id="datingapps"></div>
+  <tr>
+    <td>Dating Apps</td>
+  </tr>
+</table>
+<ul>
+  <li><a href="https://searchpof.com/">SearchPOF</a></li>
+   <p>How to Find Users on Plenty of Fish.</p>
 </ul>
 </div>
 
