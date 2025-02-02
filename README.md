@@ -255,11 +255,12 @@
 <p>Resources</p>
 <ul>
   <li><a href="https://mastodon-link-debugger.vercel.app/">Debugger</a></li>Mastodon link debugger.
+  <li><a href="https://fedifinder.glitch.me/">Fedfinder</a></li>Find Fediverse user by their Twitter account. 
+  <li><a href="https://fediverse.info/explore/people">Fediverse</a></li>Fediverse people directory. 
   <li><a href="https://seintpl.github.io/imagstodon/">Imagstodon</a></li>Enter nickname to search for profile images on 100+ Mastodon instances.
   <li><a href="https://github.com/C3n7ral051nt4g3ncy/Masto">Masto</a></li>Masto is an OSINT tool written in python to gather intelligence on Mastodon users and instances.
   <li><A href="https://mastovue.glitch.me/#/">MastoVue</A></li>Peek into the public Mastodon timeline or search for hashtags. 
-  <li><a href="https://fedifinder.glitch.me/">Fedfinder</a></li>Find Fediverse user by their Twitter account. 
-  <li><a href="https://fediverse.info/explore/people">Fediverse</a></li>Fediverse people directory. 
+  <li><a href="https://osome.iu.edu/tools/mastodon/searchaccounts">OSoMe</a></li>Search for accounts that contain the given keywords in the username, display name or note.
  </ul>
 </div>
 <table>
