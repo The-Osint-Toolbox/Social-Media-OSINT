@@ -428,17 +428,17 @@ Please bear in mind that recent changes to Twitter, especially involving their A
   <li><a href="https://osint.rocks/">OSINT Rocks</a></li>
    <p>Check a telephone to see if an accoutn exists.</p>
   <li><a href="https://www.tricksfly.net/whatsapp-group-link/">TricksFly</a></li>
-   <p>WhatsApp Group Links</p>
+   <p>WhatsApp Group Links.</p>
   <li><a href="https://whatgroup.link/">WhatGroup Links</a></li>
-   <p>Best WhatsApp group links</p>
+   <p>Best WhatsApp group links.</p>
   <li><a href="https://www.whtsgrouplinks.com/">Whts Group Links</a></li>
    <p>Active WhatsApp group links.</p>
   <li><a href="https://whatsgrouplink.com/">WhatsApp Group Links.</a></li>
-   <p>Latest WhatsApp group links.</p>
-  <li><a href="https://whatsgrouplink.com/">Whats Group Link</a></li> 
-   <p>Latest Whatsapp group links</p>
+   <p>Latest WhatsApp group links./p>
+  <li><a href="https://whatsgrouplink.com/">Whats Group Link</a></li>
+   <p>Latest Whatsapp group links.</p>
   <li><a href="https://whatsgroupslink.com/">Whats Groups Link</a></li>
-   <p>Latest Whatsapp group links</p>
+   <p>Latest Whatsapp group links.</p>
   <li><a href="https://watools.io/">WA Watcher</a></li>
    <p>Track whatsapp activity.</p>
 </ul>
