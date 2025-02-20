@@ -437,7 +437,7 @@ Please bear in mind that recent changes to Twitter, especially involving their A
    <p>Latest WhatsApp group links.</p>
   <li><a href="https://whatsgrouplink.com/">Whats Group Link</a></li> 
    <p>Latest Whatsapp group links</p>
-  <li><a href="https://whatsgroupslink.com/">Whats Groups Link</a></li>
+  <li><a href="https://whatsgroupslink.com/">Whats Groups Link</a></li>
    <p>Latest Whatsapp group links</p>
   <li><a href="https://watools.io/">WA Watcher</a></li>
    <p>Track whatsapp activity.</p>
