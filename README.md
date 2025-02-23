@@ -441,6 +441,8 @@ Please bear in mind that recent changes to Twitter, especially involving their A
    <p>Latest Whatsapp group links.</p>
   <li><a href="https://watools.io/">WA Watcher</a></li>
    <p>Track whatsapp activity.</p>
+  <li><a href="https://github.com/jasperan/whatsapp-osint">WhatsApp-Osint</a></li> 
+   <p>logs online/offline events.</p> 
 </ul>
  <table>
   <div id="messengerapps"></div>
