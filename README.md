@@ -426,7 +426,7 @@ Please bear in mind that recent changes to Twitter, especially involving their A
   <li><a href="https://en.groupio.app/">Groupio</a></li>
    <p>Find and search WhatsApp groups.</p>
   <li><a href="https://osint.rocks/">OSINT Rocks</a></li>
-   <p>Check a telephone to see if an accoutn exists.</p>
+   <p>Check a telephone to see if an account exists.</p>
   <li><a href="https://www.tricksfly.net/whatsapp-group-link/">TricksFly</a></li>
    <p>WhatsApp Group Links.</p>
   <li><a href="https://whatgroup.link/">WhatGroup Links</a></li>
