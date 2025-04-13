@@ -175,6 +175,7 @@
   <li><a href="https://github.com/C3n7ral051nt4g3ncy/FB2MKTP">FB2MKTP</a></li>Go fast from target Facebook profile to target's Marketplace account.
   <li><a href="https://inteltechniques.com/tools/Facebook.html">Intelltechniques</a></li>Facebook Search Tool.
   <li><a href="https://lookup-id.com/">Lookup-ID</a></li>Facebook profile ID / Group ID / Page ID lookup resource.
+  <li><a href="https://www.osintcanada.com/desktop-tools/facebook">OSINT Canada</a></li>Search Facebook without being logged into Facebook
   <li><a href="https://www.osintcombine.com/social-geo-lens">Osint Combine</a></li>Social Geo Lens, This tool is designed to provide a map based interface for geo searching on social media platforms.
   <li><a href="https://github.com/Ph4nToM00/FuckFacebook">Ph4nToM00</a></li>Osint tools for information retrieval via Facebook.
   <li><a href="http://socmint.tools/">Socmint Tool</a></li>Graph Search Tool.
