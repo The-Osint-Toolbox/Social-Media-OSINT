@@ -176,10 +176,10 @@
   <li><a href="https://inteltechniques.com/tools/Facebook.html">Intelltechniques</a></li>Facebook Search Tool.
   <li><a href="https://lookup-id.com/">Lookup-ID</a></li>Facebook profile ID / Group ID / Page ID lookup resource.
   <li><a href="https://www.osintcanada.com/desktop-tools/facebook">OSINT Canada</a></li>Search Facebook without being logged into Facebook
+   <li><a href="https://www.osintcombine.com/facebook-search-tools">Osint Combine</a></li>This tool is a simple way to quickly search for multiple keywords from a list or open mutual friends for multiple profiles at the same time. 
   <li><a href="https://www.osintcombine.com/social-geo-lens">Osint Combine</a></li>Social Geo Lens, This tool is designed to provide a map based interface for geo searching on social media platforms.
   <li><a href="https://github.com/Ph4nToM00/FuckFacebook">Ph4nToM00</a></li>Osint tools for information retrieval via Facebook.
   <li><a href="http://socmint.tools/">Socmint Tool</a></li>Graph Search Tool.
-  <li><a href="https://www.osintcombine.com/facebook-search-tools">Osint Combine</a></li>This tool is a simple way to quickly search for multiple keywords from a list or open mutual friends for multiple profiles at the same time. 
   <li><a href="https://www.sowsearch.info">Sowdust Graph Tips</a></li>Replacement Graph Search developed by Sowdust.
   <li><a href="https://plessas.net/facebookmatrix">Plessas Facebook Matrix</a></li>This page contains Kirby Plessas Formulas for Searching Facebook.
   <li><a href="https://www.whopostedwhat.com/">Who Posted What</a></li>Whopostedwhat.com is a non public Facebook keyword search for people who work in the public interest. It allows you to search keywords on specific dates.
