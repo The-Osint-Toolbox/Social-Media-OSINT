@@ -393,6 +393,7 @@ Please bear in mind that recent changes to Twitter, especially involving their A
  <li><a href="https://twopcharts.com/">Twopcharts</a></li>Twopcharts offers stats and data about how people have used their Twitter accounts. *Currently Not Working*
  <li><a href="https://twstalker.com/">Twstalker</a></li>Twitter Web Viewer. Tracks Twitter trends, finds the most popular Twitter users, hashtags and places.
  <li><a href="https://waybacktweets.streamlit.app/">Wayback Tweets</a></li>Display multiple archived tweets on Wayback Machine and avoid opening each link manually.
+ <li><a href="https://xcancel.com/">XCancel</a></li>Nitter Instance, Free online tool to view and search tweets without registering on Twitter.
 </ul>
 <p>Search Queries</p>
 <li>twitter.com/USERNAME</li>
