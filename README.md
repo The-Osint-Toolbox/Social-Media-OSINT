@@ -356,7 +356,7 @@ current location and view Snaps from nearby-Snapchat users or users.
 <p>Resources</p>
 The resources listed below all do very similar things but you can gleam different kinds of information about a Twtiier account, so it always worth checking them all out. Some sites may need you to sign in to your own account to work.
 <br><br/>
-Please bear in mind that recent changes to Twitter, especially involving their API (March 2023). may have an adverse affect on some resources until the owners have had chance to adapt. It is more likley now that you may have to log into your own / sock Twitter account to be able to use some of the below resources. 
+Please bear in mind that changes to X, especially involving their API (March 2023). may have an adverse affect on some resources until the owners have had chance to adapt. It is more likley now that you may have to log into your own / sock X account to be able to use some of the below resources. 
 <br><br/>
 <ul>
  <li><a href="https://makeadverbsgreatagain.org/allegedly/">Allegedly </a></li>Checks a Twitter accounts activity against their posted timezone.
@@ -397,6 +397,7 @@ Please bear in mind that recent changes to Twitter, especially involving their A
  <li><a href="https://twstalker.com/">Twstalker</a></li>Twitter Web Viewer. Tracks Twitter trends, finds the most popular Twitter users, hashtags and places.
  <li><a href="https://waybacktweets.streamlit.app/">Wayback Tweets</a></li>Display multiple archived tweets on Wayback Machine and avoid opening each link manually.
  <li><a href="https://xcancel.com/">XCancel</a></li>Nitter Instance, Free online tool to view and search tweets without registering on Twitter.
+ <li><a href="https://xplore-x.vercel.app/">XPlore</a></li>Explore live X posts and discussions happening around the world.
 </ul>
 <p>Search Queries</p>
 <li>twitter.com/USERNAME</li>
