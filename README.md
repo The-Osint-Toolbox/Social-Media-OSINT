@@ -92,6 +92,8 @@
    <p>Navigate the Ever-Changing World of Social with the Social Media Map</p>
   <li><a href="https://thehiveindex.com/">The Hive Index</a></li>
    <p>Curated lists of the top online social nedia communities to join.</p>
+  <li><a href="https://waybien.com/en">Waybien</a></li> 
+   <p>WhatsApp Group Search - Find Facebook, Discord & Telegram Channels</p>
 </ul>
 </div>
 <table>
