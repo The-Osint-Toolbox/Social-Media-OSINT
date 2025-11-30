@@ -220,6 +220,7 @@
   <li><a href="https://picuki.com/"> Picuki</a></li>Instgram Editor & Viewer.
   <li><a href="https://github.com/obitouka/privateMediaViewer/">Private Media Viewer</a></li>Views Instagram private/public accounts collaborated media without login.
   <li><a href="https://www.storysaver.net/">Story Saver</a></li>Download Instagram stories, highlights and videos.
+  <li><a href="https://toolzu.com/search-instagram-profiles/">Toolzu</a></li>Explore Instagram with an advanced Instagram profile search for free.
   <li><a href="https://github.com/megadose/toutatis">Toutatis</a></li>Extract information from instagrams accounts such as e-mails & phone numbers.
   <li><a href="https://github.com/amanverasia/Unseen?utm_source=substack&utm_medium=email">Unseen</a></li>To perform OSINT on an instagram profile.
   <li><a href="https://www.whopostedwhat.com/">Who Posted What</a></li>Finds Posts on Date Tagged With Location, for people who work in the public interest. 
