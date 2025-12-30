@@ -382,6 +382,7 @@ Please bear in mind that changes to X, especially involving their API (March 202
  <li><a href="https://twitter.lolarchiver.com/main">Lolarchiver</a></li>Retrieve historical username & bio history.
  <li><a href="https://github.com/travisbrown/memory.lol">MemoryLOL</a></li>It can currently be used to look up 542 million historical screen names for 443 million Twitter accounts. 
  <li><a href="https://nitter.privacydev.net/">Nitter</a></li>Nitter is a free and open source alternative viewer for Twitter/X.
+ <li><a href="https://notetracker.socialmedialab.ca/">NoteTracker</a></li>NoteTracker Dashboard is a searchable database of X's Community Notes. 
  <li><a href="https://github.com/dimdenGD/OldTweetDeck">Old TweetDeck</a></li>Returns old TweetDeck, for free!
  <li><a href="https://onemilliontweetmap.com/">One Million Tweet Map </a></li> A geographical clustering engine for online maps to display and analyse big geolocalized data. 
  <li><a href="https://osintcombine.com/social-geo-lens">Osint Conbine</a></li>This tool is designed to provide a map based interface for geo searching on social media platform.
