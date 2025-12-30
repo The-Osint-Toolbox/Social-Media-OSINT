@@ -219,6 +219,7 @@
   <li><a href="https://picnob.com/">Picnob</a></li>Enables you to browse Instagram profiles without the need of an account.
   <li><a href="https://picuki.com/"> Picuki</a></li>Instgram Editor & Viewer.
   <li><a href="https://github.com/obitouka/privateMediaViewer/">Private Media Viewer</a></li>Views Instagram private/public accounts collaborated media without login.
+  <li><a href="https://github.com/obitouka/InstagramPrivSniffer">Priv Sniffer</a></li>Tool to view private Instagram accounts.
   <li><a href="https://www.storysaver.net/">Story Saver</a></li>Download Instagram stories, highlights and videos.
   <li><a href="https://toolzu.com/search-instagram-profiles/">Toolzu</a></li>Explore Instagram with an advanced Instagram profile search for free.
   <li><a href="https://github.com/megadose/toutatis">Toutatis</a></li>Extract information from instagrams accounts such as e-mails & phone numbers.
