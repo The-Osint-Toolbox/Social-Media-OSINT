@@ -371,7 +371,6 @@ Please bear in mind that changes to X, especially involving their API (March 202
  <li><a href="https://github.com/claromes/waybacktweets">Claromes</a></li>Find archived tweets on Wayback Machine in an easy way.
  <li><a href="https://codeofaninja.com/tools/find-twitter-id/">Codeofaninja</a></li>Easy way for you to get a Twitter profile's numeric ID.
  <li><a href="https://cache.digitaldigging.org/">Deleted Tweet Finder</a></li>Search for deleted tweets across multiple archival services.
- <li><a href="https://foller.me/">Foller</a></li>Twitter analytics shows followers, hashtags, topics, mentions, and other statistics for any public Twitter profile.
  <li><a href="https://notetracker.socialmedialab.ca/">NoteTracker</a></li>NoteTracker Dashboard is a searchable database of X's Community Notes. 
 </ul>
 <p>Search Queries</p>
