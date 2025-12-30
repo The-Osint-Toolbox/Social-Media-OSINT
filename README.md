@@ -364,14 +364,40 @@ The resources listed below all do very similar things but you can gleam differen
 Please bear in mind that changes to X, especially involving their API (March 2023). may have an adverse affect on some resources until the owners have had chance to adapt. It is more likley now that you may have to log into your own / sock X account to be able to use some of the below resources. 
 <br><br/>
 <ul>
- <li><a href="https://liwc.net/analyzewords/index.php">Analyze Words</a></li>AnalyzeWords helps you to understand the personality of a Twitter user by looking at how they use words.
+ 
+<li><a href="https://liwc.net/analyzewords/index.php">Analyze Words</a></li>AnalyzeWords helps you to understand the personality of a Twitter user by looking at how they use words.
  <li><a href="http://aware-online.com/en/osint-tools/twitter-search-tool/">Aware-Online</a></li>Advanced search queries tool, allow you to analyze and monitor an account on Twitter.
  <li><a href="https://birdhunt.co/">Birdhunt</a></li>BirdHunt uses Twitters GeoCoded tweet search to find tweets by location.
  <li><a href="https://botometer.osome.iu.edu/">Botometre</a></li>Botometer checks the activity of a Twitter account and gives it a score. Higher scores mean more bot-like activity.
  <li><a href="https://github.com/claromes/waybacktweets">Claromes</a></li>Find archived tweets on Wayback Machine in an easy way.
  <li><a href="https://codeofaninja.com/tools/find-twitter-id/">Codeofaninja</a></li>Easy way for you to get a Twitter profile's numeric ID.
  <li><a href="https://cache.digitaldigging.org/">Deleted Tweet Finder</a></li>Search for deleted tweets across multiple archival services.
+ <li><a href="https://followerwonk.com/">Followerwonk</a></li>Twitter analytics tool used to find, analyze, and optimize for social growth and helps to explore and grow user's social graph.
+ <li><a href="https://hashatit.com/">Hash At It</a></li>Hashtag search engine. *Currently Not Returning Twiiter Hashtags*
+ <li><a href="https://instalker.org/">Instalker</a></li>Tracks Twitter trends, finds the most popular Twitter users, hashtags and places.
+ <li><a href="https://intelx.io/tools?tab=twitter">Intelx</a></li>Analyse Twitter profiles and location search.
+ <li><a href="https://makeadverbsgreatagain.org/allegedly/">Allegedly </a></li>Checks a Twitter accounts activity against their posted timezone.
+ <li><a href="https://twitter.lolarchiver.com/main">Lolarchiver</a></li>Retrieve historical username & bio history.
+ <li><a href="https://github.com/travisbrown/memory.lol">MemoryLOL</a></li>It can currently be used to look up 542 million historical screen names for 443 million Twitter accounts. 
  <li><a href="https://notetracker.socialmedialab.ca/">NoteTracker</a></li>NoteTracker Dashboard is a searchable database of X's Community Notes. 
+ <li><a href="https://github.com/dimdenGD/OldTweetDeck">Old TweetDeck</a></li>Returns old TweetDeck, for free!
+ <li><a href="https://onemilliontweetmap.com/">One Million Tweet Map </a></li> A geographical clustering engine for online maps to display and analyse big geolocalized data. 
+ <li><a href="https://osintcombine.com/social-geo-lens">Osint Conbine</a></li>This tool is designed to provide a map based interface for geo searching on social media platform.
+ <li><a href="https://realtoptweeps.com/rankings/">Real Top Tweeps</a></li>Rankings of active Twitter accounts per language.
+ <li><a href="http://spoonbill.io/">Spoonbill</a></li>Spoonbill lets you see profile changes from the people you follow on Twitter or other social networks.
+ <li><a href="https://www.sotwe.com/">Sotwe</a></li>Twitter Web Viewer. Tracks Twitter trends, finds the most popular Twitter users, hashtags and places.
+ <li><a href="https://tinfoleak.com/">Tinfoleak</a></li>Search for Twitter users leaks.
+ <li><a href="https://tweepdiff.com/">Tweep Diff</a></li>Compare Twitter friends and followers.
+ <li><a href="https://heavy.ai/demos/tweetmap">Tweet Map</a></li>Tweetmap allows you to search for geographic and temporal distribution of words used in Twitter messages worldwide.
+ <li><a href="https://tweettunnel.com/reverse.php">Tweet Tunnel</a></li>Old Tweets - view someone's earlier tweets.
+ <li><a href="https://twiiit.com/">Twiiit</a></li>Nitter instance.
+ <li><a href="https://github.com/twintproject/twint">Twint</a></li>An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API.
+ <li><a href="https://digitaldigging.org/twitter/?utm_source=substack&utm_medium=email">Twitter List search</a></li>Enter a keyword for public Twitter lists.
+ <li><a href="https://twitter.com/search-advanced">Twitter's Advanced Search</a></li>Twitter advanced search allows you to tailor search results to specific date ranges, people, phrases etc. 
+ <li><a href="https://twstalker.com/">Twstalker</a></li>Twitter Web Viewer. Tracks Twitter trends, finds the most popular Twitter users, hashtags and places.
+ <li><a href="https://waybacktweets.streamlit.app/">Wayback Tweets</a></li>Display multiple archived tweets on Wayback Machine and avoid opening each link manually.
+ <li><a href="https://xcancel.com/">XCancel</a></li>Nitter Instance, Free online tool to view and search tweets without registering on Twitter.
+ <li><a href="https://xplore-x.vercel.app/">XPlore</a></li>Explore live X posts and discussions happening around the world.
 </ul>
 <p>Search Queries</p>
 <li>twitter.com/USERNAME</li>
