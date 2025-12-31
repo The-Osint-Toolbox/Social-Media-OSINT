@@ -86,6 +86,8 @@
    <p>Alternative / advanced tools for enhancing social media experiences.</p> 
   <li><a href="https://openmeasures.io/">Open Measures</a></li>
    <p>Analyze hate and disinformation online.</p>
+  <li><a href="https://recruitin.net/">Recruit'em</a></li> 
+   <p>Use AI to build Boolean Searches.Source candidates on LinkedIn, X(Twitter), XING, Stackoverflow & GitHub.</p>
   <li><a href="https://socialmedialist.org/index.html">Social Media List</a></li>
    <p>A list of top 250 social media apps and networks worldwide.</p>
   <li><a href="https://www.ovrdrv.com/knowledge/social-media-map/">Social Media Map</a></li>
