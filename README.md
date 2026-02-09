@@ -447,6 +447,8 @@ Please bear in mind that changes to X, especially involving their API (March 202
    <p>WhatsApp Group Links.</p>
   <li><a href="https://whatgroup.link/">WhatGroup Links</a></li>
    <p>Best WhatsApp group links.</p>
+  <li><a href="https://hubrecipes.com/">New Whatsapp Group Links</a></li>
+   <p>Active and Latest WhatsApp group links.</p>
   <li><a href="https://www.whtsgrouplinks.com/">Whts Group Links</a></li>
    <p>Active WhatsApp group links.</p>
   <li><a href="https://whatsgrouplink.com/">WhatsApp Group Links.</a></li>
