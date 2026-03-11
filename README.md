@@ -400,6 +400,7 @@ Please bear in mind that changes to X, especially involving their API (March 202
  <li><a href="https://waybacktweets.streamlit.app/">Wayback Tweets</a></li>Display multiple archived tweets on Wayback Machine and avoid opening each link manually.
  <li><a href="https://xcancel.com/">XCancel</a></li>Nitter Instance, Free online tool to view and search tweets without registering on Twitter.
  <li><a href="https://xplore-x.vercel.app/">XPlore</a></li>Explore live X posts and discussions happening around the world.
+ <li><a href="https://xquik.com">Xquik</a></li>X (Twitter) OSINT & automation platform with 40+ tools for tweet search, user lookup, follower/following extraction, engagement metrics, account monitoring, reply/retweet/quote extraction, community & Space data, and mutual follow checks.
 </ul>
 <p>Search Queries</p>
 <li>twitter.com/USERNAME</li>
