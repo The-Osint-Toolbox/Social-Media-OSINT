@@ -332,6 +332,7 @@ current location and view Snaps from nearby-Snapchat users or users.
 </table>
 <p>Resources</p>
 <ul>
+   <li><a href="https://omar-thing.site">TikTok Tools</a></li>Free tool to look up any TikTok user's region and info, view stories, highlights, and reposts, plus other TikTok utilities.
    <li><a href="https://tiktok.einzzcookie.org/">TikTok Stalker</a></li>Monitor liking activity, see user details, see video details and download videos & sound without watermark. This includes further features such as obtaining timestamps of videos, timestamps of user creations, last nickname changes, language settings of users, reposts of users, comments of users on their reposts and much more.
   <li><a href="https://bellingcat.github.io/tiktok-timestamp/">Bellingcat</a></li>Obtain the timestamp of a TikTok video.
   <li><a href="https://github.com/bellingcat/tiktok-hashtag-analysis">Bellingcat</a></li>Provides tools to analyze hashtags within posts scraped from TikTok.
