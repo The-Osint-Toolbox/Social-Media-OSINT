@@ -332,6 +332,7 @@ current location and view Snaps from nearby-Snapchat users or users.
 </table>
 <p>Resources</p>
 <ul>
+   <li><a href="https://einzzcookie.org/">TikTok Stalker</a></li>User Info, User Like Activity, User Post Activity, User Private Video Info, User Analytics, User Repost Scanner, User Comment Scanner, Video Info, Video Downloader, Sharing Link Info, Fake Sharing Link, Anonym Sharing Link, User QR Generator and more.
   <li><a href="https://bellingcat.github.io/tiktok-timestamp/">Bellingcat</a></li>Obtain the timestamp of a TikTok video.
   <li><a href="https://github.com/bellingcat/tiktok-hashtag-analysis">Bellingcat</a></li>Provides tools to analyze hashtags within posts scraped from TikTok.
   <li><a href="https://cse.google.com/cse?cx=011444696387487602669%3Aaqf7d9w73om#gsc.tab=0&gsc.q=johnsmith&gsc.sort=">Custom Search Engine</a></li>TikTok CSE search. 
@@ -349,8 +350,6 @@ current location and view Snaps from nearby-Snapchat users or users.
   <li><a href="https://tiktokd.com/">TikTokD</a></li>Download TikTok videos without watermark via username.
   <li><a href="https://tiktokdownloader.com/">TikTok Downloader</a></li>Download TikTok videos without the watermark.
   <li><a href="https://ttdown.org/">Ttdown</a></li>Download tiktok video to mp4 & mp3.
-  <li><a href="https://tiktok.einzzcookie.org/">TikTok Stalker</a></li>User Info, User Like Activity, User Post Activity, User Private Video Info, User Analytics, User Repost Scanner, User Comment Scanner, Video Info, Video Downloader, Sharing Link Info, Fake Sharing Link, Anonym Sharing Link, User QR Generator and more.
- <li><a href="https://omar-thing.site">TikTok Tools</a></li>Free tool to look up any TikTok user's region and info, view stories, highlights, and reposts, plus other TikTok utilities.
   <li><a href="https://urlebird.com/">UrleBird</a></lI>TikTok Viewer, a website where you can analyze, discover and explore TikTok
   <li><a href="https://vidnice.com/">Vidnice</a></li>VidNice is a TikTok Web Viewer that you can easily browse users, followers, hashtags, popular contents, statistics and much more.
 </ul>
