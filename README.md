@@ -219,6 +219,7 @@
   <li><a href="https://osintcombine.com/instagram-explorer">Osint Combinne</a></li>Find images by date on Instagram at particular locations easier and more efficient.
   <li><a href="https://www.osintcanada.com/desktop-tools/facebook">OSINT Canada</a></li>Search Facebook without being logged into Facebook
   <li><a href="https://picnob.com/">Picnob</a></li>Enables you to browse Instagram profiles without the need of an account.
+  <li><a href="https://picmany.com/">PicMany</a></li>View public Instagram profiles, posts, reels and story highlights anonymously, without an account.
   <li><a href="https://picuki.com/"> Picuki</a></li>Instgram Editor & Viewer.
   <li><a href="https://github.com/obitouka/privateMediaViewer/">Private Media Viewer</a></li>Views Instagram private/public accounts collaborated media without login.
   <li><a href="https://github.com/obitouka/InstagramPrivSniffer">Priv Sniffer</a></li>Tool to view private Instagram accounts.
