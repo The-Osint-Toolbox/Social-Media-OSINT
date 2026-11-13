@@ -213,6 +213,7 @@
   <li><a href="https://github.com/althonos/InstaLooter">Instalooter</a></li>API-less Instagram pictures and videos downloader.
   <li><a href="https://instanavigation.com/">Instanavigation</a></li>View Instagram anonymously.
   <li><a href="https://inteltechniques.com/tools/Instagram.html">Inteltechniques</a></li>Inteltechniques Instagram search tool.
+  <li><a href="https://istorytracker.com/">iStoryTracker</a></li>Anonymous Instagram story viewer for public accounts by username, no Instagram login.
   <li><a href="https://izuum.net/">iZuum</a></li>Instagram profile downloader.
   <li><a href="https://www.modash.io/fake-follower-check?influencer=%40therock">Modash</a></li>Analyze Instagram influencers: follower count, engagement rate, fake followers, popular content.
   <li><a href="https://app.notjustanalytics.com/">Not Just Analytics</a></li>Analysis of Instagram profiles for advertising and marketing services.
