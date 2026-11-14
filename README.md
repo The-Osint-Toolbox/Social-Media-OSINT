@@ -133,6 +133,7 @@
   <li><a href="https://www.graphtracks.com/">Graphtracks</a></li>
   <li><a href="https://hoaxy.osome.iu.edu/">Hoaxy</a></li>
   <li><a href="https://internect.info/">Internect Info</a></li>
+  <li><a href="https://lurkapi.com/free-tools/bluesky-viewer">LurkAPI Bluesky Viewer</a></li>
   <li><A href="https://wolfgang.raios.xyz/">Wolfgang</A></li>
 </ul>
 </div>
@@ -183,6 +184,7 @@
   <li><a href="https://github.com/C3n7ral051nt4g3ncy/FB2MKTP">FB2MKTP</a></li>Go fast from target Facebook profile to target's Marketplace account.
   <li><a href="https://inteltechniques.com/tools/Facebook.html">Intelltechniques</a></li>Facebook Search Tool.
   <li><a href="https://lookup-id.com/">Lookup-ID</a></li>Facebook profile ID / Group ID / Page ID lookup resource.
+  <li><a href="https://lurkapi.com/free-tools/facebook-ad-library-search">LurkAPI</a></li>Search Facebook and Instagram ads in Meta's Ad Library by keyword, with each ad's copy, creative, landing page and run dates, and export them to CSV.
   <li><a href="https://www.osintcanada.com/desktop-tools/facebook">OSINT Canada</a></li>Search Facebook without being logged into Facebook
    <li><a href="https://www.osintcombine.com/facebook-search-tools">Osint Combine</a></li>This tool is a simple way to quickly search for multiple keywords from a list or open mutual friends for multiple profiles at the same time. 
   <li><a href="https://www.osintcombine.com/social-geo-lens">Osint Combine</a></li>Social Geo Lens, This tool is designed to provide a map based interface for geo searching on social media platforms.
@@ -215,6 +217,7 @@
   <li><a href="https://istorytracker.com/">iStoryTracker</a></li>Anonymous Instagram story viewer for public accounts by username, no Instagram login.
   <li><a href="https://inteltechniques.com/tools/Instagram.html">Inteltechniques</a></li>Inteltechniques Instagram search tool.
   <li><a href="https://izuum.net/">iZuum</a></li>Instagram profile downloader.
+  <li><a href="https://lurkapi.com/free-tools/instagram-lookup">LurkAPI</a></li>View a public Instagram profile's bio, links, follower counts and latest posts without logging in.
   <li><a href="https://www.modash.io/fake-follower-check?influencer=%40therock">Modash</a></li>Analyze Instagram influencers: follower count, engagement rate, fake followers, popular content.
   <li><a href="https://app.notjustanalytics.com/">Not Just Analytics</a></li>Analysis of Instagram profiles for advertising and marketing services.
   <li><a href="https://osintcombine.com/instagram-explorer">Osint Combinne</a></li>Find images by date on Instagram at particular locations easier and more efficient.
@@ -257,6 +260,7 @@
   <li><a href="https://freepeoplesearchtool.com/">Free Person Search Tool</a></li>Find people easily on Linkedin.
   <li><a href="https://inteltechniques.com/tools/Linkedin.html">Inteltechniques</a></li>LinkedIn Search Tool.
   <li><a href="https://github.com/Lucksi/LinkdTime">LinkdTime</a></li>A LinkedIn Activity date Finder.
+  <li><a href="https://lurkapi.com/free-tools/linkedin-profile-viewer">LurkAPI</a></li>LinkedIn Profile Viewer: a public profile's headline, experience, education and posts, without logging in or showing up in their profile views.
   <li><a href="https://app.podify.io/linkedin-video-downloader">Podify</a></li>Video Downloader.
   <li><a href="https://nubela.co/proxycurl/demo/linkedin-profile-viewer">Proxycurl</a></li>Free LinkedIn Profile Viewer Tool.
   <li><a href="https://recruitmentgeek.com/tools/linkedin/?sthash.Ls1u5yzO.mjjo#gsc.tab=0">Recruitment Geek</a></li>LinkedIn Xray Search.
@@ -290,6 +294,7 @@
 <p>Resources</p>
   <ul>
    <li><a href="https://github.com/bellingcat/reddit-post-scraping-tool">Bellingcat</a></li>Given a subreddit name and a keyword, this program returns all top (by default) posts that contain the specified keyword.
+   <li><a href="https://lurkapi.com/free-tools/reddit-scraper">LurkAPI</a></li>Download a public subreddit's hot, new or top posts, with their titles, text and scores, as CSV.
    <li><a href="https://reddit-user-analyser.netlify.app/">Netlify</a></li>Analyse a Reddit user.
    <li><a href="https://redditcommentsearch.com/">Reddit Comment Search</a></li>Search through comments of a particular Reddit user.
   </ul>
@@ -315,6 +320,7 @@
 <ul>
   <li><a href="https://backmoji.myosint.training/">Backmoji</a></li>The Bitmoji avatar history enumerator.
   <li><a href="https://ghostcodes.com/">Ghostcodes</a></li>GhostCodes is the largest online database of Snapchat Users.
+  <li><a href="https://lurkapi.com/free-tools/snapchat-story-viewer">LurkAPI</a></li>View a public Snapchat profile's story, highlights and Spotlight without an account. Your name doesn't show in their story viewers.
   <li><a href="https://snapchat.com/discover">Snapchat Discover</a></li> Snapchat Discover is a new way to explore Stories from different editorial teams.
   <li><a href="https://www.lifewire.com/snapchat-emoji-meanings-3485999">Snapchat Emoji Meanings</a></li>The quick guide to Snapchat emoji meanings.
   <li><a href="https://osintcombine.com/snapchat-multi-viewer">Snapchat Multi Viewer</a></li>This tool is designed to create efficiencies in viewing multiple areas on snapchat using the provided embed feature by Snapchat.
@@ -338,6 +344,7 @@ current location and view Snaps from nearby-Snapchat users or users.
   <li><a href="https://cse.google.com/cse?cx=011444696387487602669%3Aaqf7d9w73om#gsc.tab=0&gsc.q=johnsmith&gsc.sort=">Custom Search Engine</a></li>TikTok CSE search. 
   <li><a href="https://github.com/drawrowfly/tiktok-scraper">Drawrowfly</a></li>TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata.
   <li><a href="https://mavekite.com/">Analyse TikTok </a></li>A web application made for people who want to calculate tiktok engagement rate and analyse tiktok profile, video, song, or hashtag.
+  <li><a href="https://lurkapi.com/free-tools/tiktok-comment-viewer">LurkAPI</a></li>Read a TikTok video's comments and replies and export them to CSV. Its <a href="https://lurkapi.com/free-tools/tiktok-transcript">transcript tool</a> gets every word said in a video, with timestamps.
   <li><a href="https://www.osintcombine.com/tiktok-quick-search">OSINT Combine</a></li>This tool is designed to provide a quick method to search usernames and hashtags on TikTok via a browser.
   <li><a href="https://github.com/dfreelon/pyktok?">Pyktok</a></li>A simple module to collect video, text, and metadata from Tiktok.
   <li><a href="https://snaptik.app/">SnapTik</a></li>TikTok video downloader without the watermark.
@@ -382,6 +389,7 @@ Please bear in mind that changes to X, especially involving their API (March 202
  <li><a href="https://intelx.io/tools?tab=twitter">Intelx</a></li>Analyse Twitter profiles and location search.
  <li><a href="https://makeadverbsgreatagain.org/allegedly/">Allegedly </a></li>Checks a Twitter accounts activity against their posted timezone.
  <li><a href="https://twitter.lolarchiver.com/main">Lolarchiver</a></li>Retrieve historical username & bio history.
+ <li><a href="https://lurkapi.com/free-tools/twitter-viewer">LurkAPI</a></li>See an account's tweets with their likes, reposts, replies and views without an X account, and export them to CSV.
  <li><a href="https://github.com/travisbrown/memory.lol">MemoryLOL</a></li>It can currently be used to look up 542 million historical screen names for 443 million Twitter accounts. 
  <li><a href="https://notetracker.socialmedialab.ca/">NoteTracker</a></li>NoteTracker Dashboard is a searchable database of X's Community Notes. 
  <li><a href="https://github.com/dimdenGD/OldTweetDeck">Old TweetDeck</a></li>Returns old TweetDeck, for free!
