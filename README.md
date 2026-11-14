@@ -353,7 +353,7 @@ current location and view Snaps from nearby-Snapchat users or users.
   <li><a href="https://tiker.cc/en">Tiker</a></li>Download any TikTok user's video anonymously, without registration and watermark.
   <li><a href="https://github.com/estebanpdl/tik-spyder?tab=readme-ov-file">Tik-Spyder</a></li>A Python command-line tool designed to collect TikTok data.
   <li><a href="https://www.tiktok.com/foryou">TikTok For You</a></li>For You is a personalized feed of videos based on your interests and engagement.
-  <li><a href="https://www.tiktokstalk.com/">TikTokStalk</a></li>You can find users, hashtags, videos, music, and more on Tiktok.
+  <li><a href="https://tkmetrics.com/trends/">TKMetrics Trends</a></li>See what is trending on TikTok in 19 regions, track hashtag growth and compare creators.
   <li><a href="https://tiktake.org/">TikTake</a></li>Download TikTok videos and more without any watermark.
   <li><a href="https://tiktokd.com/">TikTokD</a></li>Download TikTok videos without watermark via username.
   <li><a href="https://tiktokdownloader.com/">TikTok Downloader</a></li>Download TikTok videos without the watermark.
