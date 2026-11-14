@@ -127,12 +127,12 @@
 <ul>
   <li><a href="https://github.com/fishttp/awesome-bluesky">Awesome Bluesky</a></li>
   <li><a href="https://blueskydirectory.com/starter-packs/all">Bluesky Directory</a></li>
-  <li><a href="https://clearsky.app/">Clearsky</a></li>
   <li><a href="https://deck.blue/">DeckBlue</a></li>
   <li><a href="https://goodfeeds.co/">GoodFeeds</a></li>
   <li><a href="https://www.graphtracks.com/">Graphtracks</a></li>
   <li><a href="https://hoaxy.osome.iu.edu/">Hoaxy</a></li>
   <li><a href="https://internect.info/">Internect Info</a></li>
+  <li><a href="https://skylens.redflag.ps/">Skylens</a></li>
   <li><a href="https://lurkapi.com/free-tools/bluesky-viewer">LurkAPI Bluesky Viewer</a></li>
   <li><A href="https://wolfgang.raios.xyz/">Wolfgang</A></li>
 </ul>
