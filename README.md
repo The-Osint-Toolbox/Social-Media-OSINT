@@ -80,6 +80,8 @@
    <p>Easily exports all comments from your social media posts to Excel file.</p>
   <li><a href="https://www.huntintel.io/">HuntIntel</a></li>
    <p>Find social media posts surrounding a location</p>
+  <li><a href="https://github.com/socai-io/jev-social">Jev Social</a></li>
+   <p>Open-source agent for researching Instagram, TikTok and LinkedIn in a local browser and producing cited reports from captured evidence.</p>
   <li><a href="https://www.social-searcher.com/google-social-search/">Google Social Search</a></li> 
    <p>Top Social Networks Search Results Dashboard.</p>
   <li><a href="https://github.com/MobileFirstLLC/social-media-hacker-list">Mobile First</a></li>
@@ -504,6 +506,5 @@ Please bear in mind that changes to X, especially involving their API (March 202
 </div>
 
   
-
 
 
