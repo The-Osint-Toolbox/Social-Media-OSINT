@@ -368,6 +368,7 @@ current location and view Snaps from nearby-Snapchat users or users.
  <li><a href="https://omar-thing.site">TikTok Tools</a></li>Free tool to look up any TikTok user's region and info, view stories, highlights, and reposts, plus other TikTok utilities.
   <li><a href="https://urlebird.com/">UrleBird</a></lI>TikTok Viewer, a website where you can analyze, discover and explore TikTok
   <li><a href="https://vidnice.com/">Vidnice</a></li>VidNice is a TikTok Web Viewer that you can easily browse users, followers, hashtags, popular contents, statistics and much more.
+  <li><a href="https://vidquark.com/">VidQuark</a></li>Save individual public TikTok videos as MP4 or convert available audio to MP3, with device-specific file-saving guides.
 </ul>
 </div>
 <table>
