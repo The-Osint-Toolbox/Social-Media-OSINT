@@ -231,6 +231,7 @@
   <li><a href="https://github.com/obitouka/privateMediaViewer/">Private Media Viewer</a></li>Views Instagram private/public accounts collaborated media without login.
   <li><a href="https://github.com/obitouka/InstagramPrivSniffer">Priv Sniffer</a></li>Tool to view private Instagram accounts.
   <li><a href="https://www.storysaver.net/">Story Saver</a></li>Download Instagram stories, highlights and videos.
+  <li><a href="https://storiesdownload.com/">Stories Download</a></li>Free Instagram Story downloader. Public Reels and posts usually work in HD with no login and no watermark; Stories and highlights often need the visitor's Instagram sign-in. Private, Close Friends, and expired Stories cannot be fetched.
 <li><a href="https://huggingface.co/spaces/SocialSleuth/Instagram-story-viewer">SocialSleuth Instagram Story Viewer Space</a></li>Hugging Face-hosted entry page for anonymous viewing and downloading of public Instagram Stories; opens the SocialSleuth web service, with three free daily username lookups.
   <li><a href="https://toolzu.com/search-instagram-profiles/">Toolzu</a></li>Explore Instagram with an advanced Instagram profile search for free.
   <li><a href="https://github.com/megadose/toutatis">Toutatis</a></li>Extract information from instagrams accounts such as e-mails & phone numbers.
