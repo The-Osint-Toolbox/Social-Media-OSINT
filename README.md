@@ -96,6 +96,8 @@
    <p>Navigate the Ever-Changing World of Social with the Social Media Map</p>
   <li><a href="https://thehiveindex.com/">The Hive Index</a></li>
    <p>Curated lists of the top online social nedia communities to join.</p>
+  <li><a href="https://tracefind.info/">TraceFind</a></li>
+   <p>Find the social media accounts linked to an email, phone number or username, without notifying the owner.</p>
   <li><a href="https://waybien.com/en">Waybien</a></li> 
    <p>WhatsApp Group Search - Find Facebook, Discord & Telegram Channels</p>
 </ul>
@@ -463,6 +465,8 @@ Please bear in mind that changes to X, especially involving their API (March 202
    <p>Find and search WhatsApp groups.</p>
   <li><a href="https://osint.rocks/">OSINT Rocks</a></li>
    <p>Check a telephone to see if an account exists.</p>
+  <li><a href="https://tracefind.info/phone">TraceFind</a></li>
+   <p>Check if a phone number is on WhatsApp, Telegram or Signal, plus carrier, line type and spam reports.</p>
   <li><a href="https://www.tricksfly.net/whatsapp-group-link/">TricksFly</a></li>
    <p>WhatsApp Group Links.</p>
   <li><a href="https://whatgroup.link/">WhatGroup Links</a></li>
