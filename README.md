@@ -213,6 +213,7 @@
   <li><a href="https://dumpoir.com/">Dumpoir</a></li>Instagram story viewer anonymously - Online view profiles, reels, stories IG, followers, tagged posts.
   <li><a href="https://exportgram.net/">Exportgram</a></li>Export Instagram comments.
   <li><a href="https://greatfon.com/">GreatFon</a></li>Instagram story viewer - Watch profiles, stories, followers, reels, tagged web posts anonymously.
+  <li><a href="https://igdatahub.com/">IGDataHub</a></li>Public Instagram profile analytics: followers, engagement rate and top posts for any public profile, creator comparison and follower export to CSV. Profile checks are free; some features are paid.
   <li><a href="https://igtrackr.com/">igtrackr</a></li>Follower tracker for public Instagram profiles: recent follows and unfollows, engagement rate and hashtag analysis, without logging in.
   <li><a href="https://imginn.com/">Imginn</a></li>Download instagram photos, videos and stories highlights.
   <li><a href="https://inflact.com/downloader/instagram/photo/">Inflact</a></li>Use Photo Downloader for Instagram to save Instagram photos and videos.
