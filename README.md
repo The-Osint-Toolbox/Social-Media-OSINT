@@ -91,7 +91,7 @@
   <li><a href="https://recruitin.net/">Recruit'em</a></li> 
    <p>Use AI to build Boolean Searches.Source candidates on LinkedIn, X(Twitter), XING, Stackoverflow & GitHub.</p>
   <li><a href="https://www.socialfetch.dev">Social Fetch</a></li>
-   <p>API for public profiles, posts, comments and transcripts from TikTok, Instagram, YouTube, X, Reddit and LinkedIn, returned as JSON. 100 free credits on signup.</p>
+   <p>API for public profiles, posts, comments and transcripts from TikTok, Instagram, YouTube, X, Reddit and LinkedIn.</p>
   <li><a href="https://socialmedialist.org/index.html">Social Media List</a></li>
    <p>A list of top 250 social media apps and networks worldwide.</p>
   <li><a href="https://www.ovrdrv.com/knowledge/social-media-map/">Social Media Map</a></li>
