@@ -270,6 +270,7 @@
   <li><a href="https://freepeoplesearchtool.com/">Free Person Search Tool</a></li>Find people easily on Linkedin.
   <li><a href="https://inteltechniques.com/tools/Linkedin.html">Inteltechniques</a></li>LinkedIn Search Tool.
   <li><a href="https://github.com/Lucksi/LinkdTime">LinkdTime</a></li>A LinkedIn Activity date Finder.
+  <li><a href="https://apify.com/johnvc/linkedin-profile-api">LinkedIn Profile API</a></li>Public LinkedIn profile data by profile URL, as JSON: headline, about, current company, experience, education, followers and connections.
   <li><a href="https://lurkapi.com/free-tools/linkedin-profile-viewer">LurkAPI</a></li>LinkedIn Profile Viewer: a public profile's headline, experience, education and posts, without logging in or showing up in their profile views.
   <li><a href="https://app.podify.io/linkedin-video-downloader">Podify</a></li>Video Downloader.
   <li><a href="https://nubela.co/proxycurl/demo/linkedin-profile-viewer">Proxycurl</a></li>Free LinkedIn Profile Viewer Tool.
