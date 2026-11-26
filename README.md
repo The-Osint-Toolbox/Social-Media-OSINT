@@ -74,6 +74,8 @@
 <ul>
   <li><a href="https://add-me-contacts.com/">Add-Me</a></li>
     <p>Add Me Contacts is an online directory of user contacts.</p>
+  <li><a href="https://aicommentexporter.com/">AI Comment Exporter</a></li>
+   <p>Collects public comments from a YouTube, TikTok, Instagram, X or Reddit link into Excel, CSV or JSON. The first 500 are free to search without a login; full exports are paid.</p>
   <li><a href="https://commentpicker.com/">Comment Picker</a></li>
    <p>Multi purpose tool for Facebook, Instagram, TikTok & Twitter.</p>
   <li><a href="https://exportcomments.com/">Export Comments</a></li>
