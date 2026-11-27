@@ -420,6 +420,7 @@ Please bear in mind that changes to X, especially involving their API (March 202
  <li><a href="https://digitaldigging.org/twitter/?utm_source=substack&utm_medium=email">Twitter List search</a></li>Enter a keyword for public Twitter lists.
  <li><a href="https://twitter.com/search-advanced">Twitter's Advanced Search</a></li>Twitter advanced search allows you to tailor search results to specific date ranges, people, phrases etc. 
  <li><a href="https://twstalker.com/">Twstalker</a></li>Twitter Web Viewer. Tracks Twitter trends, finds the most popular Twitter users, hashtags and places.
+ <li><a href="https://twtdata.com/">twtData</a></li>Export a public X/Twitter account's followers, following, tweets and lists to CSV (paid), plus free X trending-topic boards by country and city, updated every hour.
  <li><a href="https://waybacktweets.streamlit.app/">Wayback Tweets</a></li>Display multiple archived tweets on Wayback Machine and avoid opening each link manually.
  <li><a href="https://xcancel.com/">XCancel</a></li>Nitter Instance, Free online tool to view and search tweets without registering on Twitter.
  <li><a href="https://xplore-x.vercel.app/">XPlore</a></li>Explore live X posts and discussions happening around the world.
