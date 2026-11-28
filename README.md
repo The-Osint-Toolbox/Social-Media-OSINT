@@ -90,6 +90,8 @@
    <p>Analyze hate and disinformation online.</p>
   <li><a href="https://recruitin.net/">Recruit'em</a></li> 
    <p>Use AI to build Boolean Searches.Source candidates on LinkedIn, X(Twitter), XING, Stackoverflow & GitHub.</p>
+  <li><a href="https://savoclip.com/">Savoclip</a></li>
+   <p>Save public TikTok videos, Instagram Reels and posts, and YouTube Shorts as MP4, MP3 or images, in the browser with no account. Public posts only, no Stories.</p>
   <li><a href="https://www.socialfetch.dev">Social Fetch</a></li>
    <p>API for public profiles, posts, comments and transcripts from TikTok, Instagram, YouTube, X, Reddit and LinkedIn.</p>
   <li><a href="https://socialmedialist.org/index.html">Social Media List</a></li>
